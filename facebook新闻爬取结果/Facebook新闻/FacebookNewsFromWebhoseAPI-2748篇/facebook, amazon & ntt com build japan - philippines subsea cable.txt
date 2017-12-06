@@ -1,0 +1,17 @@
+IT Brief NZ - Facebook, Amazon & NTT Com build Japan - Philippines subsea cable   
+NTT Communications (NTT Com) will help construct an optical submarine cable connecting Japan, the U.S and the Philippines. 
+As a part of a consortium consisting of Facebook, Amazon, SoftBank, PLDT and PCCW Global, NTT Com will participate in the construction and maintenance of the Jupiter large-scale low-latency subsea cable. 
+The Jupiter cable system will have a total length of 14,000km connecting Japan, the U.S. and the Philippines, and an initial design capacity of 60Tbps. 
+It will have two landing points in Japan - the Shima Landing Station in Mie Prefecture and the Maruyama Landing Station in Chiba Prefecture - as well as a U.S. landing station in Los Angeles, California and the Daet Cable Landing Station in the Philippines. 
+NTT Com’s Asia Submarine-cable Express (ASE), Asia Pacific Gateway (APG) and Pacific Crossing-1 (PC-1) cables will connect with Jupiter cable. 
+This will provide a redundant three-route structure linking major cities in Asia, Japan and United States with a secure and reliable international network. 
+Jupiter will feature a state-of-the-art submersible ROADM (reconfigurable optical add-drop multiplexer) employing WSS (wavelength selective switch) for a gridless and flexible bandwidth configuration. 
+The cable is expected to launch in early 2020, and will feature: 400Gbps WDM system will make the cable the fastest between Japan and U.S. 
+Jupiter will be a 400Gbps wavelength-division multiplex (WDM) transmission system capable of transmitting a six-hour high-definition video (about three movies) in one second. High-security landing station on Boso Peninsula, Chiba Prefecture, Japan 
+NTT Com will build the new multilayer-security Minamiboso Landing Station in Minamiboso, Chiba Prefecture which will be an extension from the existing Maruyama Landing Station and serve as NTT Com’s Jupiter termination point. 
+The other cable landing station which Jupiter system terminates are well secured as well, according to NTT Com. 
+Jupiter will also use the existing Shima Landing Station in Shima, Mie Prefecture. NTT Com will provide connection to other cable systems via the Minamiboso and Shima landing stations to maximize transmission route options. 
+In addition, NTT Com will connect the Minamiboso Landing Station with data centers in Tokyo and the Shima Landing Station with data centers in Osaka, via low-loss optic fiber to enlarge the transmission capacity within Japan. 
+To meet the growing demands for traffic, including internet, cloud services and coming 5G wireless communications, NTT Com is continuing to expand its cable capacity in Asia and the Trans-Pacific. 
+This includes connecting multiple cable systems to its own data centers and enhancing cable redundancy to offer highly reliable global network service. 
+At the same time, NTT Com says it will further support the business-expansion initiatives of customers by merging its data center, cloud and network services.

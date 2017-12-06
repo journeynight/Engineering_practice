@@ -1,0 +1,1 @@
+Feedback: ( 0 ) Facebook SDK Get my name and friend name problem Dear All,I Made a facebook quize website, i wrote code but i have a problem, I want get my name and one of my friend name. but it didn't work.

@@ -1,0 +1,25 @@
+(Rewrites throughout with comments from hearing)
+WASHINGTON, Oct 31 (Reuters) - U.S. senators on Tuesday pressed Facebook Inc's chief lawyer on why the company did not catch 2016 election ads bought using Russian rubles, why its investigation of them took so long and how much it knows about its 5 million advertisers.
+Democrats and Republicans at the Senate crime subcommittee hearing fired questions for much of two hours at Facebook General Counsel Colin Stretch, who said that in retrospect the company should have done more.
+"In hindsight, we should have had a broader lens. There are signals we missed," Stretch said under questioning from Democratic Senator Al Franken about how the company missed political ads bought with Russian money. Stretch called the Russia-based ads "reprehensible" for their political divisiveness.
+The hearing marked the first time tech executives have appeared publicly before U.S. lawmakers on the Russia matter, and the tone represented a dramatic shift in fortunes for Silicon Valley, which for years has grown accustomed to favorable regulatory treatment in the United States.
+Lawyers for Twitter Inc and Alphabet Inc's Google also faced questions at the hearing about how Russians used their services, but Facebook drew the bulk of senators' ire because of its unique role in targeted marketing on the internet.
+Facebook has broader reach than the smaller Twitter network, and it offers more powerful targeting capabilities than Google.
+"I suspect that your advertising department has watched the profits go up," Democratic Senator Patrick Leahy told Stretch, who responded that Facebook was committed to rooting out accounts that use fake names.
+Lawyers for the three companies were scheduled to return to Capitol Hill on Wednesday for two more hearings on Russia ad spending.
+The Russian government has denied it intended to influence the 2016 presidential election, in which Republican Donald Trump defeated Democrat Hillary Clinton.
+Facebook, in a series of disclosures over two months, has said that people in Russia bought at least 3,000 U.S. political ads and published another 80,000 Facebook posts that were seen by as many as 126 million Americans over two years.
+Senators said they could not understand the timing of Facebook's disclosures.
+"Why has it taken Facebook 11 months to come forward and help us understand the scope of this problem?" Democratic Senator Chris Coons asked.
+Stretch responded that, when U.S. spy agencies alleged in January that Russians meddled in last year's election, "we weren't sitting around." The company over the following months launched an investigation and reported the results, he said.
+Facebook has also announced steps to change how it treats political ads. It said it is hiring 1,000 more people to review ads, compiling a publicly searchable archive of political ads beginning next year and requiring more information about the identity of election advertisers.
+Coons said he wished the tech companies had sent their top executives on Tuesday rather than in-house lawyers.
+Republican Senator John Kennedy told Stretch that he doubted Facebook's ability to stop people overseas from buying U.S. election ads. U.S. law bars election spending by non-Americans.
+"You've got 5 million advertisers and you're going to tell me that you're able to trace the origin of all those advertisements?" Kennedy asked Stretch.
+The Facebook lawyer responded that there was little the company could do if a foreign advertiser used a U.S. shell corporation.
+Republican Senator Lindsey Graham, chairman of the crime subcommittee, said he wanted to help the tech companies, but he also pressed Stretch on whether Iran and North Korea could try to do what Russia did in the United States.
+Stretch responded: "Certainly potentially. The internet is borderless."
+Hanging over Facebook, Google and Twitter is the threat of legislation that would extend rules governing political advertising on television, radio and satellite to also cover social media.
+The companies have responded with proposals for self-regulation, saying they would create their own public archives of election-related ads.
+Democratic Senator Amy Klobuchar told witnesses on Tuesday that self-regulation would lead to a "patchwork" of databases and that a uniform system would be better for voters.
+(Reporting by David Ingram in Washington; Additional reporting by Dustin Volz in Washington and Paresh Dave in San Francisco; Editing by Jonathan Oatis and Peter Cooney)

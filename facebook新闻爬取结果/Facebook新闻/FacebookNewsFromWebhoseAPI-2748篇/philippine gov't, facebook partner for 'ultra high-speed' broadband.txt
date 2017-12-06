@@ -1,0 +1,12 @@
+Business Philippine gov't, Facebook partner for 'ultra high-speed' broadband The government says the planned Luzon Bypass Infrastructure will have 'spectrum equivalent to at least two million Mbps,' nearly equal to the combined capacity of Globe and PLDT Published 8:15 PM, November 15, 2017 Updated 8:15 PM, November 15, 2017 
+  The Philippine government teamed up with Facebook to build "ultra high-speed" broadband infrastructure, which would make the government virtually a 3rd major player in the telecommunications industry. 
+Called the Luzon Bypass Infrastructure, it would involve two cable landing stations connected by a 250-kilometer-long cable network corridor. 
+On Wednesday, November 15, the Bases Conversion and Development Authority (BCDA), along with the Department of Information and Communications Technology (DICT) and Facebook, signed an agreement for the Strategic Engagement and Collaboration to Undertake a Reliable and Efficient Government Internet (SECURE GovNet) project. 
+"The cable will provide direct connections from Luzon to internet hubs in the United States and Asia," DICT Officer-in-Charge Eliseo Rio Jr said. 
+As the first party to utilize the infrastructure, Facebook would build and operate a submarine cable system that would land in the cable stations on the east and west coasts of Luzon. 
+"In exchange for utilizing the bypass infrastructure, Facebook will provide the Philippine government with spectrum equivalent to at least two million megabits per second (Mbps)," Rio said. 
+The DICT official said this capacity is almost equal to the current combined capacity of Globe Telecom Incorporated and PLDT Incorporated, making the government virtually a 3rd major player in the telecommunications industry. 
+Rio said this deal is in line with President Rodrigo Duterte's directive to develop the National Broadband Plan , which aims to significantly reduce internet costs and improve internet speed. 
+He added that the infrastructure will also facilitate the implementation of the government's connectivity programs, like the Free Public Internet Access, the National Government Portal, and other information and communications technology projects. 
+The government said the Luzon Bypass Infrastructure is targeted to be online by 2019. 
+Last May, Akamai Technologies' Global State of the Internet Report showed that the Philippines has the slowest average internet speed in Asia Pacific . Its average connection speed is just 5.5 Mbps, falling short of the global average internet connection speed of 7.2 Mbps.

@@ -1,0 +1,10 @@
+Facebook wants to curb revenge porn, but it needs your nude photos first  31 AM CST Nov 8, 2017 National Desk Staff 
+In the age of social media, "revenge porn" has become a serious issue for many people. 
+Nude and other explicit or intimate photos taken during a relationship are being posted online as a way to embarrass people after a breakup. One out of 25 Americans have been victims of revenge porn , according to a report from the New York-based Data & Society Research Institute. Advertisement 
+Now, Facebook wants to put an end to that, but the way they plan on doing it has some scratching their heads. 
+Verge reports the social media giant needs an original file of a person's explicit image uploaded to the company so Facebook's image-matching technology can remember the picture's footprint and stop that image from being uploaded at a later date. 
+Facebook says the footprint technology does not allow the company to store the photos, according to the Washington Post . The practice is currently being tested in Australia before it is scheduled to make its way to the U.S. and Canada. 
+“Yes, they’re not storing a copy, but the image is still being transmitted and processed. Leaving forensic evidence in memory and potentially on disk,” forensics expert Lesley Carhart said . 
+Carhart explains that it's nearly impossible to truly delete an image that passes through the internet. 
+"I literally recover deleted images from computer systems all day — off disk and out of system memory. It’s not trivial to destroy all trace of files, including metadata and thumbnails.” she added. 
+Back in May, Facebook announced it was hiring thousands of new employees who will be specifically tasked with monitoring and removing flagged posts. While that role was originally intended to combat violent videos posted on the site, the goal of removing nude or explicit posts could soon be an added responsibility.

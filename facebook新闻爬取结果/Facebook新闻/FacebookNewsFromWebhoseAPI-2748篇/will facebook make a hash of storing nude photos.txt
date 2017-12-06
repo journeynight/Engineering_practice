@@ -1,0 +1,24 @@
+By Alexander J Martin, Technology Reporter
+Sending Facebook staff our private sexual material in order to prevent that material being seen by strangers seems counter-intuitive.
+While the Government has strengthened the law to prosecute people who share another person's sexual images and videos without their consent, prosecution can only ever be a post-facto form of redress.
+Facebook is proactively trying to prevent the spread so-called revenge pornography by encouraging users to upload intimate material of themselves that they do not want to be shared.
+This material will not be simply digitally fingerprinted by Facebook's computers but actually viewed by humans at the company, potentially exposing victims to an additional violation of their privacy.
+A blurred copy of that image will be stored indefinitely by Facebook and kept on file for staff to consult when those algorithms fail to provide a clear answer.
+Video: Mischa Barton: 'My absolute worst fear was realised' The company is running a pilot scheme in Australia, with plans to extend it to the UK, which will create a fingerprint of these intimate images and videos used to detect any attempts to share those files.
+Classically, such fingerprinting technology used cryptographic hash functions to identify the files by a short unique code which computers could easily use to automatically identify them.
+Unfortunately, the technology is very easy to fool. With cryptographic hash functions, even the smallest change to the input file will result in a completely different fingerprint as its output.
+Image files which have been manually manipulated to change a single pixel - or have simply been rotated or resized - might seem similar to the human eye, but would be completely unrecognisable to a computer.
+This makes it very possible for someone to share blocked images by deceiving the automated system meant to catch them.
+Here, obviously similar images of Facebook founder Mark Zuckerberg generate completely different hashes using the MD5 algorithm.
+Image: The similarities in the pictures are unrecognised by the MD5 algorithm Responding to criticism that Facebook's detection mechanism would be easy to fool, the company's chief security officer Alex Stamos told Twitter that Facebook was using a different fingerprinting technology.
+"There are algorithms that can be used to create a fingerprint of a photo/video that is resilient to simple transforms like resizing," Mr Stamos wrote.
+"I hate the term 'hash' because it implies cryptographic properties that are orthogonal to how these fingerprints work," he added.
+Facebook refused to explain what algorithms it was using, but Mr Stamos' description resembles something known as perceptual hashes, UCL security researcher Dr Steven Murdoch told Sky News.
+"Perceptual hashes are still hashes, from the perspective that they are fixed size and generally much smaller than the input files. However they have very different security properties," Dr Murdoch explained.
+"Using perceptual hashes does however mean that Facebook only have to store the perceptual hash in order to flag suspect images, and since it is infeasible to recreate the original image from the hash, it reduces the risk of the original image leaking out."
+Image: The pHash algorithm recognises similarities in the images Unlike cryptographic hashes, perceptual hashes are able to detect the vast similarities between images which are not identical, foiling attempts to deceive the automated system.
+Where the MD5 hashes didn't reflect any similarity between the images, the perceptual hashes for these images generated with the open source pHash algorithm allows the computer to say they are 89% similar.
+Despite the potential privacy violation if users are unaware that Facebook staff may look at their intimate material, the ability to restrict how exposed that material could be may be an effective method of preventing the spread of revenge pornography.
+All images that are uploaded to Facebook are compared against a database of hashes of known unwanted content, from material showing child abuse to encouraging terrorism.
+However, it is necessary to subject new material to manual review by Facebook employees to prevent abuse of the system to censor content unrelated to revenge porn.
+While the initial view of an image by a member of Facebook's staff might mean that users' intimate photos might not be safe from Facebook, the perceptual hashing means they're probably safer with Facebook.

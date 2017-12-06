@@ -1,0 +1,9 @@
+Watch Out For New Facebook “Trusted Friend” Scam Posted by divergys On 
+If you can't trust your friends, who can you trust? 
+No one, apparently. 
+There's a new scam on Facebook that's making waves, and it's one you should be mindful of. You may get an "urgent message" from someone you know, asking for your help in recovering their Facebook account. 
+This is a tried and true phishing scam, relying on some basic psychology. After all, if you get an earnest sounding message from someone you know explaining that you're listed as one of their "Trusted Friends" and as such, uniquely positioned to help verify their identity so they can get access to their account back, who wouldn't instinctively respond? This is exactly what the scammers are hoping for. 
+The message goes on to explain that they're sending an unlock code to your email address, and they just want you to reset the password for them. 
+Unfortunately, the unlock code is nothing of the sort. Instead, it triggers a password reset for your own account. If you click the link and "reset your friend's password," then reply back, helpfully telling him or her what the new password is, you've inadvertently given your own login information to the hackers. From there, the sky's the limit. 
+What makes this latest scam particularly problematic is that so many other web properties allow you to use your Facebook login details to access them, which is a roundabout way of saying that you're using the same login credentials across multiple websites - one of the most basic and pervasive problems of user security in existence. 
+There's no real defense for this other than vigilance, and if you see a message like this, simply ignore it. If your "trusted friend" genuinely needs help regaining control of their account, Facebook has resources to assist.

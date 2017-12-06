@@ -1,0 +1,60 @@
+November 4, 2017 in How To Guides 
+So you’ve launched your Facebook ad and you’re noticing your click-through rate and engagement is lower than expected. 
+You tweak the copy, change the visual, and add a catchy headline. 
+And yet, there’s very little improvement. 
+What you probably failed to adjust is where your Facebook ad is appearing. 
+Sure, you changed the features of the ad itself, but your Facebook advertisement placement can actually be a major factor in determining if your campaign is a success or not. 
+With 6 different placement options, selecting the right one for your Facebook marketing goals depends on the type of product or service you offer, what industry you’re in, and more. 
+Keep in mind that CPC can vary over 550% depending on ad placement. 
+This means you need to track your results carefully to make sure you’re maximizing ROI and your Facebook ad is performing according to expectations. 
+In this guide to Facebook ad placement, we’ll discuss: how to set up where and how your ad appears the type of placement options the benefits of each 
+You have two options when setting up your Facebook ad campaign in Ads Manager: Automatic Placements Edit Placements 
+After you’ve selected your objective in the ad creation section of Facebook Ads Manager, you can scroll to Placements . 
+It is here that you can select the automatic option, in which Facebook decides the places to show your ads for you based on your objective, eligibility, and creative elements. 
+Or, you can select the Edit Placements option, which lets you customize where and how your Facebook ads appear. Image source: https://adespresso.com 
+If it’s not your first time running a Facebook advertising campaign or you want to have some customizable options, select Edit Placements . 
+Be aware that your options for Facebook ad placement may vary based on your objective. 
+For example, if your objective is Mobile App Installs, then you will not see Desktop Feeds as a placement category. Desktop News Feed Facebook Ad Placement 
+Don’t get this confused with mobile News Feed ad placement. 
+Desktop News Feed Facebook ads appear on desktops and laptops only . 
+Now that’s cleared up, desktop News Feed ads are those that appear front and center in a user’s News Feed. 
+Traditionally, Desktop News Feed Facebook ads are considered to yield the highest CTR and engagement . 
+They offer brands the ability to have a larger visual and more ad copy so you can tell the whole story while grabbing your audience’s attention more effectively. 
+They’re also considered the best option for businesses new to Facebook advertising. 
+Desktop News Feed ads work by seamlessly integrating into a Facebook user’s experience. Right Column Facebook Ad Placement 
+Since being updated in 2014 , Facebook’s right column ads are 50% better at increasing dwell time and 29% more effective at attracting views. 
+With this option, your ad is shown only on the right-hand side of desktop screens. 
+This is the least intrusive of all Facebook ad placement options. 
+It’s also cheaper when it comes to costs-per-click and costs-per-conversion. 
+Right column ads are great to use in tandem with another Facebook ad placement option to make sure you’re capitalizing on all conversion opportunities. 
+These ads are also good options for brands on a budget or those looking for a subtle social media advertising alternative. Mobile News Feed Facebook Ad Placement 
+And that’s a result of an audience exceeding 1.74 billion monthly mobile users . 
+In order to reach the increasing audience segment of mobile Facebook users, your business should run Mobile News Feed Facebook ads. 
+These appear similar to Desktop News Feed Facebook ads, but are formatted for mobile and therefore have access to customers anytime, anywhere. 
+The effectiveness of mobile News Feed ads is in their engagement: Mobile Facebook ads often enjoy a 6X higher CTR than those on desktop. 
+And the CPC is lower by half, too. Image source: https://appsamurai.com 
+Mobile News Feed ads are also advantageous for how they appear to users. 
+Unlike Desktop News Feed Facebook ads that have to compete with right column ads and the additional menu bars and content of the platform, mobile News Feed ads take up a majority of the screen. 
+There are no sidebars to compete with, and even less News Feed content invading the screen and distracting from your ad. In-Stream Facebook Video Ad Placement 
+This option is for advertisers that meet strict requirement standards from Facebook to incorporate ad breaks in other video content. 
+However, if your business qualifies it is an excellent opportunity for branding. 
+The major benefit of producing one of these 5-15 second videos is a high completion rate. 
+People are more likely to watch your entire ad in order to continue watching their video. 
+With Facebook intent on making video a priority on its platform, in-stream Facebook video ads are a wise way to enter the video ad market while it’s still young. Instant Articles Facebook Ad Placement 
+Whenever a user opens an article on Facebook, Instant Articles ad placement lets your Facebook ad appear to them. 
+An Insight Articles ad can include CTAs directly within the article for your business. 
+Or it can be an entire article your business launches to inform your audience more about your brand, sales and promotions, or any other content you’d like to disperse. 
+When used with desktop or mobile News Feed ads, Insight Articles let you access customers throughout their whole Facebook experience. 
+It’s a popular option for media publishers that want to provide their audiences on Facebook with engaging and shareable content more quickly and easily. 
+On average, Insights Articles load 10X faster than traditional web articles and have a 70% decrease in abandon rate. Instagram Ad Placement 
+As we saw in the earlier graph, Instagram ads are often the more expensive PPC advertising option. 
+However, they are also incredibly effective at earning ROI and driving conversions. 
+People tend to engage more with brands on Instagram than on any other platform – 10X more , in fact. Image source: https://www.wordstream.com/ 
+When you place your ad on Instagram, it can show up in people’s Feeds and/or their Stories based on how you set your Facebook ad placement preferences. 
+Make sure your Instagram ad is visually compelling as that is the basis of success on this platform. Image source: https://quarterlab.com/ 
+Placing a Facebook ad on Instagram is an excellent way to tap into the motivated consumers that flock to the platform for engaging with the brands they love and for discovering new ones. 
+These people also intend to buy: 72% of Instagram users claim the platform has influenced their purchasing decisions. Think About your Facebook Ad Placement 
+Where you place your Facebook ads clearly has consequences for the success of your campaign. 
+In most cases, you should advertise in multiple places and across multiple devices and platforms. 
+Track which Facebook ad placements are working best for your business by filtering your ads by Placement in Ads Manager. 
+With close results-tracking and A/B testing, you can conclude which placements work for you and optimize your Facebook advertising strategy.

@@ -1,0 +1,16 @@
+November 07, 2017 2:24 PM 
+Facebook wants to help you out, and all it needs is your nude photographs in exchange. 
+Yep, you read that right — Facebook is teaming up with the Australian government in a pilot program that aims to stop the unwanted spread of nude images, the Australian Financial Review reported. 
+Here’s how it works (in Australia, where it is currently being tested). 
+First, you contact Australia’s e-Safety Commissioner, and let them know about nude images of yourself that you worry someone may try to spread online without your consent, the Financial Review wrote. Then, you send the image to yourself on Messenger, allowing Facebook to create a sort of digital fingerprint for the picture. 
+“It would be like sending yourself your image in email, but obviously this is a much safer, secure end-to-end way of sending the image without sending it through the ether,” Julie Inman Grant, the e-Safety Commissioner, told the Australian Broadcasting Corporation. “They're not storing the image, they're storing the link and using artificial intelligence and other photo-matching technologies.” 
+“So if somebody tried to upload that same image, which would have the same digital footprint or hash value, it will be prevented from being uploaded.” 
+Users are then told to delete the image off of Messenger, the Financial Review wrote, and the picture shouldn’t be able to pop up on that app, Facebook or Instagram in both public postings and private messages. 
+The pilot will soon be tested in the United Kingdom, Canada and the United States, both Mashable and Techworm reported. 
+It’s an expansion of another program Facebook was testing that allowed users to report an already-posted image of themselves online . Facebook would review the flagged image, remove it and then prevent it from being posted anywhere else on Facebook, Instagram and Messenger with “photo-matching technologies.” 
+But that could only happen after the image was posted , while this new pilot being tested in Australia is supposed block the image before it can spread at all, the New York Post noted. 
+Facebook has a “worldwide license to use any” photos and videos posted on its site until “you delete your (images and videos) or your account,” according to its Terms of Service. But if your image or video has been shared with others, the social media company still owns that content until everyone else deletes it, too. 
+Inman Grant said that safeguards are in place so the nude images shared on Messenger will not leak. 
+“We have a great deal of comfort that they have chose the most secure route,” she said to ABC. “We want to empower people to be able to protect themselves and take action, we don't want to make them vulnerable.” 
+A study published by the Data & Society Research Institute last year found that around 10 million Americans have either had their nude images shared online without their consent or were threatened it would happen. 
+According to the Cyber Civil Rights Initiative, 38 states and the District of Columbia currently have laws regarding “revenge porn,” or the nonconsensual distribution of someone’s nude photographs. Never miss a local story. Sign up today for unlimited digital access to our website, apps, the digital newspaper and more.

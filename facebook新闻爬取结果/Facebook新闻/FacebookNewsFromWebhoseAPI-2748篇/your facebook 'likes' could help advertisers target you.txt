@@ -1,0 +1,37 @@
+One Facebook 'like' may be all that's required to create a psychological profile of you. 
+Getty images: NicoElNino Close 
+Do you "like" Lady Gaga on Facebook? According to a study, your pop fandom may offer a clue about your personality for advertisers to exploit. 
+Researchers in the US and UK have used psychological profiles based on a single Facebook "like" to target ads. 
+In campaigns that reached more than 3 million people, they found that matching ads to people whose Facebook "like" indicated high or low levels of extroversion and openness, led to around 40 per cent more clicks and up to 50 per cent more purchases than when the ads did not match those qualities. 
+The results were published this week in the Proceedings of the National Academy of Sciences . Likes show personality 
+To target the ads, "likes" were chosen that matched people with high and low extroversion and openness scores on myPersonality, a Facebook app that allowed users to take psychometric tests online. 
+By broadly suggesting that introverts would "like" things on Facebook such as computers or Stargate, the "likes" could serve as a proxy for an introverted group of consumers. 
+This method has limitations: for example, there may be introverts within the extroverted target group, and vice versa. 
+"It could be that someone 'likes' Stargate, but is completely extroverted," said Sandra Matz, an assistant professor at Columbia Business School in New York and one of the report's authors. 
+"It's basically that, on average, the group that we're targeting is more extroverted." 
+Once the target "likes" were chosen, ads were created by graphic designers tailored to those with high and low levels of extroversion. 
+In one of the tests, ads for a British beauty retailer were shown to mostly women in the UK aged between 18 and 40. 
+Out of the more than 3 million people reached by the ads, 10,346 clicked it and 390 actually made purchases. A new type of advertising 
+The researchers call this "mass digital persuasion", but in some ways, it's nothing new. Advertising has always used psychology and identity to target consumers. 
+Demographic marketing advertises to people based on their cohort — their gender, for example. 
+Behavioural marketing, on the other hand, tries to reach people based on their past actions. 
+Say, if you search "Bali holiday" on Google, airline ads may be shown to you on other websites. 
+Facebook does not allow advertisers to target people's emotional or psychological state. 
+However, Lewis Mitchell, who studies data science and social networks at the University of Adelaide, said the study suggests "likes" may indirectly allow that to happen. 
+"We know that Facebook has these algorithms that they use to target ads, but it’s all a bit mysterious," he said. 
+"These things might be going on inside the machine, but it's possible, with the complexity of these algorithms, they may not even be aware they are targeting a particular type of psychology." Should we be worried? 
+Fears have been growing about how Facebook's ad platform could be used maliciously. 
+The company has admitted a likely Russian group bought ads promoting divisive political and social messages during the 2016 US presidential election . 
+Dr Matz believes we need a public discussion about how the data we share with platforms like Facebook — our friends, our likes and our location, for example — can be used for advertising. 
+Messages using this information could help nudge people towards healthy eating or better spending habits, as well as political action. 
+"What the discussion should be about is, not necessarily the question of whether we should shut the technology down all together, but what do we want to use it for?" she said. 
+"If we don't want it used in political campaigns, let's regulate." 
+For now, it remains unclear how powerful Facebook advertising really is. 
+Dr Mitchell pointed out that the study's conversion rates — the number of people who made a purchase or downloaded the app relative to the number of times the ads were seen — were relatively low. 
+The beauty product ad test provided no neutral campaign with which to compare an average conversion or click-through rate. 
+"It can be easy to get into the trap of thinking this is all very sinister and going to lead to mind control," he said. 
+"But you want to keep in mind that about one in 10,000 is actually clicking on the ad. 
+"If it leads to mind control, it's a weak form of mind control indeed." 
+Dr Mitchell said the work of Dr Matz and her team shows how much needs to be done before we understand the full impact of Facebook targeting. 
+"We need more open data [from Facebook] that we can look at and probe and try and comprehend ourselves," he said. 
+Facebook did not respond to a request for comment. ABC science promo

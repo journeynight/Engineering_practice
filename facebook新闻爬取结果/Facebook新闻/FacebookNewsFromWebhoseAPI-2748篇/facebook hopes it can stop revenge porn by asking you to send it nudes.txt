@@ -1,0 +1,14 @@
+In an attempt to combat the rise of revenge porn on its platform, Facebook is asking users to upload any nude photos they think may be distributed without consent — a process which involves a Facebook employee reviewing the uploaded images.
+
+Piloting the program in Australia, Facebook has teamed with the Australian government's eSafety division, with an aim to prevent intimate images being shared without consent on all of its platforms (this includes Messenger, Instagram and Facebook Groups).
+The entire process is as follows:
+A person worried that intimate photos of themselves are being shared online fills out a form on the eSafety Commissioner's website;
+The user then sends the photo(s) to themselves on Facebook Messenger; While this is happening, the eSafety Commissioner's office notifies Facebook of the person's submission; Facebook's community operations team uses "image matching technology" to prevent the image being uploaded or shared online. At least one "specially-trained representative" will review your image(s) before hashing them. Hashing an image converts it into a digital fingerprint — a series of numbers — that are used to block attempts to upload the image to Facebook's platforms. The user is then prompted by Facebook to delete the image they have sent to themselves. In a blog post on Thursday, Facebook confirmed that at least one company employee will view the nude photos users upload.
+In a post on its Newsroom portal , Facebook's global head of safety, Atigone Davis, wrote that a "specially-trained representative" from the social network's Community Operations team will review the image before "hashing" it.
+Facebook then stores the hash, which it says "creates a human-unreadable, numerical fingerprint of it," but not the photo itself. This helps to prevent future uploading — if you're comfortable with an employee seeing your nudes.
+This new system from Facebook builds on an announcement in April , at which the company first said it would be introducing new tools to help people who had images shared on Facebook without consent.
+Previously, users were encouraged to use Facebook's "report" feature to block images from being shared that were already uploaded.
+The new hashing program will give users the ability to notify Facebook themselves and thus stop the image from being uploaded in the first place.
+“The safety and well-being of the Facebook community is our top priority,” said Davis in a statement.
+"These tools, developed in partnership with global safety experts, are one example of how we’re using new technology to keep people safe and prevent harm."
+UPDATE Nov. 09, 2017, at 23:18 PM This post has been updated with information about "specially-trained" Facebook employees vetting the images uploaded by users.

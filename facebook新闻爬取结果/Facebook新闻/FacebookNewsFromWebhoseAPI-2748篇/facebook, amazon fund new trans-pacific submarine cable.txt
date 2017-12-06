@@ -1,0 +1,8 @@
+SHARE ▼ The JUPITER submarine cable's basic route 
+A consortium including Facebook, Amazon and SoftBank has signed up to build a new submarine cable linking Asia and the United States of America. 
+NTT Communications, PCCW Global and PLDT (Philippine Long Distance Telephone Company) have also tossed cash into the “JUPITER” cable, which will land in Los Angeles, the Japanese cities of Maruyama and Shima, plus Daet in the Philippines. 
+The cable is “Scheduled to be ready for service by early 2020” - just in time for the Tokyo Summer Olympics. That event also explains why SoftBank's Koji Ishii, co-chair of the JUPITER consortium, says the cable is being built in part to handle demand for “capacity-dependent applications like live video, augmented and virtual reality, and 4k/8k video.” Japan wants to shoot its games in 8K. Reg tours submarine cable survey ship 'Geo Resolution' READ MORE 
+And perhaps Facebook wants to stream some of that video: The Social Network™ has already tried, and failed, to acquire the right to live-stream sport . 
+Or perhaps it just needs more trans-Pacific bandwidth and figures that owning it, rather than renting it, is the best way to get it. Or perhaps it wants more resilience for its Pacific traffic, which is one reason the JUPITER consortium says it is building the cable. 
+Amazon clearly has a need for that kind of connectivity: it already has bit barns in Japan and low-latency links to the mothership are a prima facie useful proposition for the company. 
+Facebook's already contributed to at least one other submarine cable, namely the MAREA link from Spain to the USA. ®

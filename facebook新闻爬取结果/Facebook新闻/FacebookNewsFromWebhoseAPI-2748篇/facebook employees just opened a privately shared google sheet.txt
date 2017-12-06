@@ -1,0 +1,19 @@
+building the global movement for the protection of privacy. Subreddit Rules (updated 2017-08-06) 
+If you find privacy related software, services or subreddits you think are great please run them by the mods before you post them. Close source software is not permitted 
+If you're a developer or employee of a company that makes non-commercial privacy related software or services you can post links/comments about it if it is open source and you have discussed conditions with the mods in advance. But, you also must clearly identify yourself and stick around to answer questions people have regarding your product/service. Remember we're a community, not a place to advertise. Your site must be available over https only. 
+The promotion of closed source privacy software is not welcome in /r/privacy . By its nature you can not verify easily that it does what it claims and as a result this puts your privacy and security at risk 
+Refrain from repeatedly pushing traffic to personal or other sites, especially if commercial in nature. 
+Be nice and have some fun. Please don't jump on people for making a mistake or holding a different view. Reclaiming the privacy high ground requires changing minds and you can't do that if you scare people away. 
+Sexism will not be tolerated. Nor will Racism, LGBTQ-phobic comments or similar hate speech. 
+Don't suggest violence or destruction as a means to an end 
+Before posting check that a discussion has not already been started. Use the search and check new submissions. 
+This is not a tech support subreddit. These posts may be removed. 
+Refrain from editorializing titles, use the original title. 
+Always link to the original source material 
+Clear any links to fundraising with the mods first 
+All surveys should be passed by the mods for approval before posting 
+Don't post memes or other images funny or not. 
+Please don't theorize about conspiracies here. We don't need to confuse things by introducing unverifiable conspiracy conjecture. 
+Due to the commercial nature of VPNs discussion are better directed to /r/vpn . No mentioning of specific providers by name 
+No partisanship arguments or baiting 
+Failure to adhere to the above will result in your post being removed and / or you being banned a community for

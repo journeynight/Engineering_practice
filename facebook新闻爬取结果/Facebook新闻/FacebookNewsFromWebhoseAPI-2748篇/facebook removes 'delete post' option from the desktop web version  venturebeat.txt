@@ -1,0 +1,12 @@
+GamesBeat 2018 Apr 9 - 10 
+Facebook has a long tradition of tweaking and changing its interface, testing new features with a small selection of users to see what works and rolling changes back when they don’t pan out. 
+But surely the company wouldn’t prevent users from deleting their posts on its social network? 
+Well, a flurry of complaints across social media today would suggest otherwise. It’s not just you…!…Facebook seems to have removed the “Delete post’ option 
+— Matt Navarra (@MattNavarra) November 17, 2017 Well I just found out that @facebook has removed our ability to delete posts. You can "hide from timeline" if you feel like scrolling through your whole timeline, but you can't delete and you can't edit the post to be blank. Huh. 
+— Mussed Musing ☃️ (@mussedmusing) November 17, 2017 
+Dozens of reports suggest that those using the web-based version of Facebook on a desktop machine can no longer delete posts. We have checked this, and it certainly appears to be the case —“hide from timeline” is there, but “delete” is gone. Above: Where is delete post? 
+However, the option to delete posts is still available on the mobile website and in the iOS and Android apps. Above: Facebook: Mobile web 
+Instinctively, this would appear to be a bug rather than a feature — after all, why would Facebook prevent users from deleting one of their posts? There’s no way this decision would ever be greeted with open arms. 
+When you visit your Activity Log, a place that lets you review and manage what you’ve shared on Facebook, the option to delete is actually still there — however, the solution is not obvious to anyone accustomed to using the more accessible menu in the upper right-hand corner of the post itself. Above: Activity log: Delete 
+So could Facebook be testing this out to see what kind of feedback it garners or, indeed, whether anyone notices? Could it be a cynical ploy to get users to rely more on the mobile app? Facebook now claims more than two billion monthly users, with mobile playing an increasingly pivotal role in the company’s growth, so that’s certainly within the realm of possibility. 
+VentureBeat has reached out to Facebook for comment and will update when we hear back.

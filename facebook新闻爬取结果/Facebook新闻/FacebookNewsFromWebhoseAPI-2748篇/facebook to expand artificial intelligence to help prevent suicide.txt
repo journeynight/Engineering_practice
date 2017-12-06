@@ -1,0 +1,17 @@
+Facebook to expand artificial intelligence to help prevent suicide Reuters 18 hrs ago By David Ingram © REUTERS/Dado Ruvic/Illustration/File Photo FILE PHOTO: A 3D plastic representation of the Facebook logo is seen in this photo illustration Facebook Inc will expand its pattern recognition software to other countries after successful tests in the U.S. to detect users with suicidal intent, the world's largest social media network said on Monday.
+Facebook began testing the software in the United States in March, when the company started scanning the text of Facebook posts and comments for phrases that could be signals of an impending suicide. [nL3N1GE48W]
+Facebook has not disclosed many technical details of the program, but the company said its software searches for certain phrases that could be clues, such as the questions "Are you ok?" and "Can I help?"
+If the software detects a potential suicide, it alerts a team of Facebook workers who specialize in handling such reports. The system suggests resources to the user or to friends of the person such as a telephone help line. Facebook workers sometimes call local authorities to intervene.
+Guy Rosen, Facebook's vice president for product management, said the company was beginning to roll out the software outside the United States because the tests have been successful. During the past month, he said, first responders checked on people more than 100 times after Facebook software detected suicidal intent.
+Facebook said it tries to have specialist employees available at any hour to call authorities in local languages.
+"Speed really matters. We have to get help to people in real time," Rosen said.
+Last year, when Facebook launched live video broadcasting, videos proliferated of violent acts including suicides and murders, presenting a threat to the company's image. In May Facebook said it would hire 3,000 more people to monitor videos and other content. [nL1N1I50V2]
+Rosen did not name the countries where Facebook was deploying the software, but he said it would eventually be used worldwide except in the European Union due to sensitivities, which he declined to discuss.
+Other tech firms also try to prevent suicides. Google's search engine displays the phone number for a suicide hot line in response to certain searches.
+Facebook knows lots about its 2.1 billion users - data that it uses for targeted advertising - but in general the company has not been known previously to systematically scan conversations for patterns of harmful behavior.
+One exception is its efforts to spot suspicious conversations between children and adult sexual predators. Facebook sometimes contacts authorities when its automated screens pick up inappropriate language.
+But it may be more difficult for tech firms to justify scanning conversations in other situations, said Ryan Calo, a University of Washington law professor who writes about tech.
+"Once you open the door, you might wonder what other kinds of things we would be looking for," Calo said.
+Rosen declined to say if Facebook was considering pattern recognition software in other areas, such as non-sex crimes.
+(Reporting by David Ingram; Editing by Susan Thomas)
+Go to MSN Home

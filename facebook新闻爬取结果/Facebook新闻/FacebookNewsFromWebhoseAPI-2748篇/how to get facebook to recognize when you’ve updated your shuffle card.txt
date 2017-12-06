@@ -1,0 +1,26 @@
+How To Get Facebook To Recognize When You’ve Updated Your Shuffle Card by Lynn Huber on November 6, 2017 
+I know this can be really frustrating when you’re using a Shuffle Card to promote each campaign, so I have a tip for you today. 
+You’ve created a Shuffle Card for your Avon Campaign. You’ve posted it on Facebook, and many people have come and looked at your Shuffle Campaign Card. It’s working great! 
+Now, it’s a new Avon Campaign, and you’ve edited the card to reflect the new campaign, and post it on Facebook… and it’s the old card that comes up! 
+Many Reps have gotten frustrated and thought they needed to create a new Shuffle Card every campaign. But that’s not true. 
+Facebook uses a technology where, whenever it sees a link, it stores the information in a database. It’s sort of like cookies on your computer. 
+When you post the same link a week or two later, Facebook doesn’t actually go to the link to get the correct image – it automatically pulls it from it’s own database. That’s how Facebook keeps its site quick and efficient, even though there are millions of people on it every day. 
+So all you have to do is tell Facebook that you’ve changed your card. It’s easy, and I’m going to show you how right now! 
+So here’s my current Campaign 25, 2017 card. 
+When I go to post it on Facebook, this is what I get… 
+Not quite what I wanted. 
+So I’m going to take advantage of Facebook’s Developer Tools at this link: 
+Hint, you’ll want to add this to your bookmarks 🙂 
+I entered my Shuffle Card’s link, and clicked on Debug 
+Notice, it pulls up my old card. You’ll also see some warnings, and lots of information you probably won’t understand. You can just ignore those. Just click on Scrape Again. 
+Most of the time I have to click on Scrape Again two times before it actually gets the correct image. But now it is showing the correct image. 
+Now when I go over to Facebook to post my Shuffle Campaign link, this is what I see. 
+And there you go… all fixed! 
+So get out there and edit your Shuffle Cards as much as you want! 
+And if you don't have a Shuffle Account yet, click on my card , and you'll be given an option to create one for yourself. It's free for 14 days, and then only $10 a month. The best $10 a month I ever spent! 🙂 
+Learn more about Shuffle here . 
+p.s. This tip is not only for Shuffle cards. It will also work with any link you're trying to post to Facebook that's having problems! 
+<—— Did this article help you? If so, it would mean a lot to me if you would share it with others!!! And, share your comments below! I would LOVE to know more about you and your thoughts on this subject! 
+Let’s have some conversation! 
+EXPECT Success! 
+Join our OnlineBeautyBiz Facebook Group for more support Related Posts:

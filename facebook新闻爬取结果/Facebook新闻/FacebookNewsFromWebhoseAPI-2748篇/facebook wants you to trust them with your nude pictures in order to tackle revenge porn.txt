@@ -1,0 +1,8 @@
+In a bid to eradicate revenge porn from its pages and give potential victims the upper hand, Facebook is asking users to send in nude photos that could be maliciously shared by someone else.
+The radical new strategy, currently being tested in Australia, is asking individuals who have exchanged intimate or sexual images with former partners who they fear might leak use Facebook Messenger to send the images to be "hashed" - meaning Facebook will create a unique digital fingerprint that can be used to identify and block any attempts to re-upload that same image.
+ Speaking to ABC Julia Inman Grant, Australia's e-safety commissioner, said that the technology will allow users to combat "image-based abuse" and take action before pictures are posted to Facebook, Instagram or Messenger.
+Getty "We see many scenarios where maybe photos or videos were taken consensually at one point, but there was not any sort of consent to send the images or videos more broadly," she told the Australian news channel.
+In order to begin the prevention process, users must first complete an online form on the e-safety commissioner's website detailng their concerns, before being asked to send the pictures they are worried about to themselves on Messenger, while the e-safety commissioner's office notifies Facebook.
+ Once Facebook receives said notification, a special analyst will access the image and hash it to prevent any future instances of the same photo from being uploaded or shared.
+According to Facebook, the unwanted images will be stored for a short period of time before they are then deleted, to ensure the policy is being enforced correctly.
+Related Story Woman strikes back at revenge porn in the best way From: Esquire UK

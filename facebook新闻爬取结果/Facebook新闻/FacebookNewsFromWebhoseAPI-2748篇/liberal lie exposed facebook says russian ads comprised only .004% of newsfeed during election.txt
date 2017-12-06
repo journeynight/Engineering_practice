@@ -1,0 +1,1 @@
+Add widgets to this sidebar in the Widgets panel under Appearance in the WordPress Admin. On Air

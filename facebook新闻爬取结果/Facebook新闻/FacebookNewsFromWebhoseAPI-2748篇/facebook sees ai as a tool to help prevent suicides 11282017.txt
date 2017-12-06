@@ -1,0 +1,13 @@
+by Gavin O'Malley   @mp_gavin , Yesterday Facebook is adding AI to existing efforts to prevent suicide. New “proactive detection” artificial intelligence technology can scan posts for patterns of suicidal thoughts.
+The system will direct mental-health resources to at-risk users and their closest friends, and, when deemed appropriate, alert local first-responders.
+Among a community of roughly 2 billion members, AI can reduce the time it takes to help those in distress, according to Guy Rosen, VP of product management at Facebook.
+“When someone is expressing thoughts of suicide, it’s important to get them help as quickly as possible,” Rosen notes in a new blog post.
+Regarding the frequency of such efforts, he said Facebook worked with first responders on roughly 100 “wellness checks,” over the past month.
+Those checks were based on reports Facebook received via its proactive detection efforts. They were in addition to reports it received from users across its community.
+advertisement
+advertisement
+AI essentially uses pattern recognition to detect posts or live videos where someone might be expressing thoughts of suicide.
+Facebook also uses pattern recognition to help accelerate the most concerning reports. These accelerated reports -- which require immediate attention -- are “escalated” to local authorities twice as quickly as other reports.
+The company uses signals like the text used in a post and comments (for example, comments like “Are you ok?” and “Can I help?” can be strong indicators).
+Facebook is also dedicating more reviewers from its community operations team to review reports of suicide or self harm, according to Rosen.
+Its community operations team currently includes thousands of people around the world who review reports about content on Facebook. The team includes a dedicated group of specialists who have specific training in suicide and self harm.

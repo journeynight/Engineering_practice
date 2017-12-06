@@ -1,0 +1,16 @@
+Facebook Wants Your Nudes to Combat Revenge Porn Social media giant partners with Australian government for controversial pilot program Mikael Thalen | Infowars.com - November 8, 2017 Comments 
+Facebook is asking its users to send the company their nude photos as part of a new pilot program aimed at tackling revenge porn. 
+Currently being tested in Australia, the program, a joint effort between the social media website and the country’s “eSafety” government agency, will use photo-matching technology to stop the unauthorized distribution of sensitive imagery. 
+Those interested in participating must first fill out an online form with the eSafety office. Next, the users must send a message to themselves over Facebook Messenger containing the explicit photo before flagging it as a “non-consensual intimate image.” 
+Facebook, according to the Australian Broadcasting Corporation (ABC), will then create and store a “hash,” or digital fingerprint, of the original photo. If another user on Facebook or Instagram attempts to upload the same image, an algorithm will detect the digital signature and stop it from being shared. 
+Julie Inman Grant, Australia’s eSafety Commissioner, asserted to ABC that Facebook will only store a photo’s hash, not the image itself. 
+“They’re not storing the image, they’re storing the link and using artificial intelligence and other photo-matching technologies,” Grant said. 
+“We have a great deal of comfort that they have chose the most secure route… we want to empower people to be able to protect themselves and take action, we don’t want to make them vulnerable.” 
+While Facebook claims not to store the explicit images, security experts warn the move can still pose risks to users. 
+Speaking with Motherboard’s Louise Matsakis, digital forensics expert Lesley Carhart said photos in some cases could be retrieved by a skilled adversary. 
+“Yes, they’re not storing a copy, but the image is still being transmitted and processed. Leaving forensic evidence in memory and potentially on disk,” Carhart said . “My speciality is digital forensics and I literally recover deleted images from computer systems all day—off disk and out of system memory. It’s not trivial to destroy all trace of files, including metadata and thumbnails.” 
+Last April Facebook introduced a similar feature that allowed users to flag images that had already been shared to stop them from spreading further. 
+As noted by Lisa Vaas, digital security writer for Naked Security , the technology has long been used to stop the proliferation of child pornography online. 
+“Since 2008, the National Center for Missing & Exploited Children (NCMEC) has made available a list of hash values for known child sexual abuse images, provided by ISPs, that enables companies to check large volumes of files for matches without those companies themselves having to keep copies of offending images or to actually pry open people’s private messages,” Vaas writes. 
+Issues surrounding the spread of unauthorized photos on Facebook made headlines earlier this year when a private group consisting of current and former US military men was found to be sharing nude photos of female service members. 
+Got a tip? Contact Mikael securely: keybase.io/mikaelthalen

@@ -1,0 +1,25 @@
+WASHINGTON: Russian agents intending to sow discord among American citizens disseminated inflammatory posts that reached 126 million users on Facebook , published more than 1,31,000 messages on Twitter and uploaded over 1,000 videos to Google 's YouTube service, according to copies of prepared remarks from the companies that were obtained by The New York Times . 
+
+The detailed disclosures, sent to Congress on Monday by companies whose products are among the most widely used on the internet, came before a series of congressional hearings this week into how third parties used social networks and online services to influence millions of Americans before the 2016 presidential election. 
+
+The new information goes far beyond what the companies have revealed in the past and underline the breadth of the Kremlin's efforts to lever open divisions in the US using American technology platforms, especially Facebook. 
+
+Multiple investigations of Russian meddling have loomed over the first 10 months of the Trump presidency, with one leading to the indictments of Paul Manafort, the former Trump campaign chief, and others on Monday. 
+
+In its prepared remarks sent to Congress, Facebook said the Internet Research Agency, a shadowy Russian company linked to the Kremlin, had posted roughly 80,000 pieces of divisive content that was shown to about 29 million people between January 2015 and August 2017. Those posts were then liked, shared and followed by others, spreading the messages to tens of millions more people. Facebook also said it had found and deleted more than 170 accounts on Instagram; those accounts had posted about 120,000 pieces of Russia-linked content. 
+
+The Russia-linked posts were "an insidious attempt to drive people apart," Colin Stretch, the general counsel for Facebook who will appear at the hearings, said in his prepared remarks. He called the posts "deeply disturbing," and noted they focused on race, religion, gun rights, and gay and transgender issues. The new information also illuminated when Facebook knew there had been Russian interference on its platform. 
+
+Several times before the election last November 8, Facebook said its security team discovered threats targeted at employees of the major American political parties from a group called APT28, an agency that US law enforcement officials have previously linked to Russian military intelligence operations. 
+
+Twitter, in its prepared remarks, said it had discovered more than 2,700 accounts on its service that were linked to the Internet Research Agency between September 2016 and November 2016. Those accounts, which Twitter has suspended, posted roughly 131,000 tweets over that period. Outside of the activity of the Internet Research Agency, Twitter identified more than 36,000 automated accounts that posted 1.4 million poll-related tweets linked to Russia over that threemonth period. The tweets received approximately 288 million views, according to the company's remarks. 
+
+Google, in its prepared statement, said it had also found evidence that the Internet Research Agency bought ads on its services and created YouTube channels to upload short videos about divisive social issues including law enforcement, race relations or Syria . 
+
+Google said it had found 18 channels that were "likely associated" with the Russian agents that posted political videos to YouTube. Those accounts — now suspended — uploaded more than 1,100 videos totaling 43 hours of content from 2015 through the summer of 2017. 
+
+"While we found only limited activity on our services, we will continue to work to prevent all of it, because no amount of interference is acceptable," wrote Richard Salgado, Google's director of law enforcement and information security, and Kent Walker, Google's general counsel. The two men were scheduled to testify at separate congressional committees on Tuesday and Wednesday. 
+
+For Facebook, Google and Twitter, the discovery of Russian influence by way of their sites has been a rude awakening. 
+
+The companies had long positioned themselves as spreading information and connecting people for positive ends. Now the companies must grapple with how Russian agents used their technologies exactly as they were meant to be used — but for malevolent purposes.

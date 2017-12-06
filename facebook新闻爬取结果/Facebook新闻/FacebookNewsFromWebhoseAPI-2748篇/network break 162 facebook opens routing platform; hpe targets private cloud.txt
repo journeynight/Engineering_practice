@@ -1,0 +1,7 @@
+Download Audio Subscribe 
+Take a Network Break! On this week’s analysis of tech news, we examine Facebook’s Open/R routing platform, which is now open source. We also discuss why Qualcomm has rejected Broadcom’s bid, and look at a new private cloud partnership between HPE and Rackspace. 
+French cloud provider OVH suffers a significant outage, AT&T keeps fighting to buy Time Warner, and an analyst shop forecasts a $3 billion market for SD-WAN. 
+Adobe issues a patch for lots and lots of vulnerabilities, researchers reveal a flaw in Amazon Key, Cisco announces quarterly financials, and Amazon targets sci-fi and fantasy TV. 
+You can find all the links to these stories, plus details about our sponsors, below. Sponsor: ExtraHop 
+The ExtraHop analytics platform provides insight across the IT environment, helping IT leaders make data-driven decisions to optimize performance, security, and customer experience. Tweet @ExtraHop and mention Packet Pushers to get a free T-Shirt. To learn more about ExtraHop and try it for yourself, visit www.extrahop.com/demo . Sponsor: InterOptic 
+With InterOptic, you can purchase high-performing optics designed by engineers who truly understand what you need. InterOptic stands behind the optics they sell and they’ll give you a much better price than the OEMs. Get more information at connect.interoptic.com/packetpushers. Show Links:

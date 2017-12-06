@@ -1,0 +1,26 @@
+Facebook Launches New Customer Chat Website Plugin as Part of Messenger Platform 2.2 Author share 
+While Messenger is taking a little longer than Facebook would have hoped to become the all-encompassing business and personal companion tool Zuck and Co. have envisioned, there is still plenty of time for the platform to take hold, and plenty of opportunity, given Messenger’s continued growth . 
+Furthering their efforts to expand Messenger’s business potential, Facebook has today released Messenger Platform 2.2, adding in some new tools and features to provide new brand connection and marketing opportunities. 
+Here’s what’s being added. Customer Chat 
+First off, Facebook’s adding a new customer chat plugin which will enable users to initiate a Facebook Messenger thread with a business on that brand’s own website. 
+As you can see from the video, the new option will enable businesses to add an integrated Messenger chat option right on their site, which will also enable them to maintain that thread within Messenger from then on. 
+Facebook says that this has been one of their most highly requested features, and definitely, it adds a new level of utility to Messenger interaction. Up till now, Messenger has been an additional channel, an extra connection option for users, which has enabled brands to connect with them on the platform they’re already active on. But this option now extends that capacity, and adds a new level of response option for businesses, many of whom are already working to monitor their Messenger response times. 
+This could particularly come in handy for mobile queries on relevant sites – as shown in this example, when a user is looking up baggage information on the KLM website, there’s a Messenger prompt, enabling them to ask a question direct. 
+And you can do more than just chat – as explained by Facebook: 
+“ In addition to extending the conversation across multiple surfaces, the customer chat plugin supports current platform capabilities, such as payments, NLP, rich media and more. To ensure the Messenger web experience is as feature-rich as the Messenger app, we will continue to add new capabilities as the Platform expands.” 
+No doubt the payments option, in particular, stood out – as we’ve noted previously , adding in more payment options will likely be a key focus for Facebook moving forward, particularly as it looks to expand on Messenger’s business potential. 
+They recently announced a new peer-to-peer payment arrangement with PayPal , and they’ve been rolling out new payment options in various regions . Expect some significant moves from Facebook on this front, which will make Messenger commerce and much more viable option for many users. 
+The new customer chat option is being launched this week, with beta partners including Air France, Argos, Bodeaz, KLM, Mermaid Pillow, Volaris and Zalando. 
+If you’re interested in getting the option for your site, Facebook says businesses can apply to their waitlist to be notified when the plugin becomes broadly available. Media CTAs 
+Facebook’s also launching a new media template which will enable businesses to attach a CTA button to any videos, images or GIFs they share via Messenger. 
+The option will give businesses more ways to drive action in response to Messenger content, and drive more engagement via such sharing. New Tools 
+In addition to the main new options, Facebook’s also releasing a range of Messenger platform updates, including: 
+Broadcast API – Facebook’s releasing their Broadcast API in open beta, which will give businesses the ability to send messages to multiple subscribers with a single API request. 
+“For example, a news publisher might use the Broadcast API to send breaking news alerts to all their subscribers, or use custom labels to send game-score alerts to sports fans who follow a specific team.” 
+Updated Page-Level Feedback – Facebook’s also providing new tools to enable businesses to more easily see how people rated their Messenger experience. 
+Automated Language Detection – They’re also adding in built-in natural language processing to help detect the language each user is using in their message. 
+“Built-in NLP is now available in Chinese, Dutch, French, German, Italian, Polish, Portuguese, Romanian, Spanish and Vietnamese. The default NLP model is able to detect the following entities in all supported languages: date & time, location, amount of money, phone number and email.” 
+Facebook’s also rolling out their Handover Protocol, updating their Page Insights API and adding some new message tags , including updates on the status of an application and ‘pairing updates’. 
+As noted, Messenger hasn’t morphed into the all-consuming personal assistant/eCommerce giant Facebook sees it becoming as yet, but there’s still plenty of opportunity, there are many ways Facebook could broaden Messenger’s influence and build it into a much more significant consideration. 
+Really, it only takes one or two truly transcendent Messenger bot experiences, experiences that people want to tell their friends about, and the momentum will start building. Facebook hasn’t quite hit the target just yet, but new tools like the website chat integration point to more significant opportunities on the horizon. 
+Follow Andrew Hutchinson on Twitter

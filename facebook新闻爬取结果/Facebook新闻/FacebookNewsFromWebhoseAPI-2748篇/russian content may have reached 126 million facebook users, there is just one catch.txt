@@ -1,0 +1,52 @@
+One month ago, the media world and political punditry was in a furore after Facebook revealed that some 470 alleged Russian troll accounts had paid Facebook a whopping $100,000 to purchase 3,000 advertisements potentially influencing the outcome of the election (even though many of the ads "showed support for Clinton" and only half ran before the actual election). The furore did not last long: gradually the story fizzled, before becoming a watercooler joke that Russia had managed to buy the outcome of the US election for a whopping 100 grand - which would make Vladimir Putin not only a propaganda genius of the highest order, but the best damn advertisement mastermind to ever live, generating the highest ad IRR in history - even though eventually Facebook threw out a number that as many as 10 million people may have seen these ads.
+
+So, eager to keep the "Russia interfered in US elections" meme going (not to be confused with what the Washington Post one year ago titled "The long history of the U.S. interfering with elections elsewhere"), tomorrow Facebook's general counsel, Colin Stretch , together with his peers from Google and Twitter, will will sit before the Senate judiciary subcommittee on crime and terrorism and try to fascinate the public with some far bigger numbers, while hopefully also pitching the vast reach Facebook and other social media have. To do that, Facebook will say that it estimates that *a grand total of 126 million people may have seen content posted by Russian-backed accounts over more than two years that, as the WSJ puts it, "sought to disrupt American society", *according to a prepared copy of the remarks obtained by The Wall Street Journal.
+
+How is this number different from the far smaller number quoted previously when referring only to the Russian trolls' alleged ad outreach? Because this time, Facebook will count virtually every post created by these alleged Russian troll farms as direct form of propaganda: as the WSJ explains, tomorrow's definition of "reach" will include such content as "free posts and events listings."
+
+In all, Facebook will claim that Russian-linked accounts allegedly churned out 80,000 pieces of content - call them posts, surveys, notes, and pretty much anything else, as well as ads - between January 2015 and August 2017.
+
+Going back to the revised "total reach" number, at first blush it sounds unprecedented: up to a whopping 126 million people, more than a third of the US population - *and more than half of Facebook's entire US penetration *- may have been brainwashed by those pesky Russians.
+
+A quick tangent: when it comes to Facebook's US penetration, lately it's difficult to separate the truth from the lies, because readers may recall that on month ago, Brian Wieser, an analyst with Pivotal Research, calculated that *Facebook claimed that its ad platform can reach millions more young adults in the U.S. than are estimated to actually live in the country*. Facebook's Ads Manager claims to have a potential reach of 41 million people in the U.S. between the ages of 18-24, according to Wieser's investor note released Tuesday, even as the U.S. Census Bureau estimates *there were only 31 million people in that age range last year*.
+
+Oops.
+
+Of course, numbers are "fluid" when it comes to the advertising industry - and by fluid we mean grossly fabricated and fraudulent - and the last thing we want to do is get Facebook in even more trouble with its advertisers who one day will get sick of reaching robotic click farms in Bangladesh and ask for their money back.
+
+However, there is one catch. When Facebook says that up 126 million people may have seen the allegedly Russian content, what it really means is that there has been a total of 126 million possible impressions and "click thrus" (we give Facebook the benefit of the doubt on the math here). What it did not say, or actually did as we will show momentarily, is that at the same time as the Russian content was running, *everyone else *was also desperately seeking to attract the attention - and clicks - of these 126 million potential eyeballs, or rather 256 million eyeballs, with their own content, ads, articles, and what not.
+
+How much more content? Here is the math - the Russians supposedly created 80,000 pieces of content. Now, as WaPo explains, for Facebook, which places roughly 220 posts each day in the news feeds of U.S. users, the amount of content equals a tiny fraction of total content served. How tiny? *Americans in total were served over 33 trillion stories in their News Feeds between 2015 and 2017. *In this context, those 80,000 Russian posts appear... modest.
+
+Which is precisely what Facebook will say tomorrow in its defense. Quote the WSJ:
+
+
+
+In his testimony, Mr. Stretch plans to say that “any amount” of fake or malicious activity is “too much,” while at the same time playing down its importance, according to the prepared remarks. *Mr. Stretch plans to argue that these posts were a small fraction of the content consumed by Americans during this period—0.004% of posts, or one out of 23,000 pieces of content.*
+
+
+
+In other words, yes - up to 126,000,000 Americans may have seen the "socially-damaging" Russian content on Facebook. The problem is that those same 126,000,000 Americans *also saw a few trillion other stories in the same time period.*
+
+And speaking of socially-damaging, this is what Facebook will claim was the content of the ads and posts:
+
+
+
+*“Many of the ads and posts we’ve seen so far are deeply disturbing—seemingly intended to amplify societal divisions and pit groups of people against each other,”* Mr. Stretch plans to say.
+
+
+
+Well, judging by Donald Trump 's twitter feed, at least one person was religiously clicking on the Russian Facebook content.
+
+Which about covers Twitter. What about Google? Here is WaPo:
+
+
+
+Google said it had found 18 English-language channels with 1,108 videos uploaded, totaling about *43 hours of content*, that originated with Russian operatives.
+
+
+The company also found that two accounts linked to the *Russian troll farm spent a total of $4,700 on search and display ads during the 2016 election cycle. *
+
+
+
+So to summarize: having spent $100,000 on Facebook ads, and unleashed a troll army to wrote Facebook posts - which had a 0.004% change of being read - Putin then went for the kill, and assured himself a Trump presidency by splurging another $4,700 for Google ads and creating an additional 43 hours of video content. The rest is history.

@@ -1,0 +1,9 @@
+By Billy Perrigo November 8, 2017 
+Facebook is currently piloting an unorthodox scheme to combat revenge porn, in which users can send the company nude photos they fear might be shared to stop them from being published. 
+Revenge porn is a type of abuse where images once taken consensually, for example by people in a relationship, are shared online at a later point. 
+The proposed system would work by “hashing” abuse images that victims send to themselves using Facebook Messenger, using the same technology that social media companies use to identify terrorism-related or child abuse images. 
+Facebook would create a digital fingerprint of the image that would be stored after the original image is deleted. That fingerprint, or “hash,” would be used to stop the image being uploaded in the future. The technology works even with images that have been manipulated. 
+Read: Sia Beats Paparazzi to the Punch By Posting Her Own Nude Photo 
+“We are delighted that Facebook is helping solve this problem—one faced not only by victims of actual revenge porn but also individuals with worries of imminently becoming victims,” Carrie Goldberg, a New York-based sexual privacy lawyer, told the Guardian. 
+The pilot is taking place in Australia, where Facebook (fb) is cooperating with the government’s eSafety Commissioner in an initiative to prevent what it calls “image based abuse.” 
+As much as 10% of women in the U.S. under the age of 30 have been victims of revenge porn, according to a 2016 report from the Data & Society Research Institute . SPONSORED FINANCIAL CONTENT

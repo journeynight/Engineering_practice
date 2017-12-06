@@ -1,0 +1,11 @@
+Facebook's Adding a New Option to Help Advertisers Maximize their Ad Budgets Author share 
+Facebook’s providing a new way for advertisers to better optimize their ad spend by automatically allocating more of their ad budget to their highest performing ads. 
+Called ‘ Campaign Budget Optimization ’, the new option is aimed at smaller businesses who need to more closely monitor their ad spend, but are also looking to run multiple ad sets. 
+The process works like this: 
+As you can see in this example, once you’ve set your campaign budget, the system automatically allocates spend to the best performing ad set, ensuring you get maximum value. 
+“By distributing more of a budget to the highest performing ad sets, advertisers can maximize the total value of their campaign. Budget optimization works in real time to determine the most effective use of a business' ad dollars to help lower cost per result and increase return on ad spend.” 
+Advertisers can set daily or lifetime campaign budgets, as well as bid caps and spend limits for each individual ad set. 
+The option to switch on Campaign Budget Optimization will be listed in your campaign set-up menu – Facebook says the tool will be rolling out to all businesses in the coming months. 
+It’s a good addition from Facebook – right now, many advertisers would be shifting their ad spend around in response to trends, which should see this system reduce workload. But then again, it also means you’re putting more reliance on Facebook’s ad tracking and data tools to ensure optimal delivery, which some may be hesitant to do, given Facebook’s repeated errors with ad metrics . 
+Still, the objectives being tracked via Facebook ads are fairly reliable, and as such, automated optimization should be a big help for those brands looking to maximize their ad spend, while also reducing manual effort. 
+Follow Andrew Hutchinson on Twitter

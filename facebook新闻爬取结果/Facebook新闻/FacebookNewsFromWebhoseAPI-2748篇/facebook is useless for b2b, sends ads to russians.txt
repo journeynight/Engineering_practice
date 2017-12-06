@@ -1,0 +1,21 @@
+0 Comments 
+I’ve never bought into the talk about Facebook and Twitter being unwitting agents for Russian interference in the 2016 US election. Why? Facebook in particular has no clue what the heck it’s doing when it comes to ad serving and specifically when it comes to B2B. 
+I’ve written before that I think that Facebook ads are a fraud . My latest experiment on that front produced no better results than the previous experiments. The only difference is the cost of failure has plummeted. Instead of forking over $50-60 I forked over $15. 
+So – what did I do and what were the results? 
+I had what I think is a reasonably compelling customer story that includes a well known brand and which talks to HR and payroll topics. The ad contained a short extract, pretty picture and a link to the main story. I’d previously set a target group of those in the 20-48 age range, gender neutral and only within the continental US since the brand is best known in that location. 
+What happened? 
+Sure enough, Facebook approved the ad and presented in front of a bunch of people. Several hundred (I’m a cheapskate and this was another experiment so…) duly saw the ‘ad.’ But – and here’s the kicker, actually there are three. 
+First , the click rate was <0.4%. That’s worse than any other form of ‘ad’ distribution we get anywhere else on any other medium. Even our related stories click rates, which you’d normally expect to be very low come in at an average of 1.8%. 
+Second , the profiles of the people who said they liked the ‘ad’ were not remotely close to the profile I’d have expected. Most were relatively new to Facebook with almost no posting activity. At the risk of appearing a total douchebag, I can’t see how a self-employed fork lift driver or hairdresser from somewhere in Russia could possibly be interested in the story. 
+Third – did I just mention Russia? Yes indeedy. Despite being VERY specific about location, the ad was seen – and I paid for – Russian eyeballs. 
+For its part, Facebook seemed pleased enough with itself to exhort me to learn more about how to target Christmas buyers. On multiple occasions. What’s going on here? 
+The pattern I saw was not wholly dissimilar from that I’ve reported in the past. Almost exclusively young, relatively new Facebook users are targeted with all manner of ‘stuff’ to see what sticks, including the ads of unwitting souls like me. 
+You can argue that my targeting is off and that I have repeated the mistakes of the past but this is the third time I’ve tried this experiment using criteria Facebook suggested. The results don’t change. 
+You can also argue that $15 or even $50 is not a big deal and you’d be right. But Facebook is very clear that it is targeting SMEs of which there are millions and from which one has to assume it makes billions. How many of those have the same experience? Chagrin Valley Soap and Salve shared their experience as a B2C vendor. 
+Sheryl Sandberg, COO Facebook has been consistent and clear that the company wants to help SMBs . But how many of those are throwing money down the drain? How many are B2C and how many are B2B? 
+Facebook is trying to show that it is serious about the enterprise, turning up at Dreamforce with a spin on Workplace and Quip. But that doesn’t get over the hump of Facebook’s colossally dumb B2B targeting algorithm. My take 
+If you’re a B2B business looking to drum up business or promote the brand via Facebook for B2B purposes then proceed with incredible caution. 
+Right now, Facebook may well be successful in helping B2C SMBs but its ambitions for the enterprise are at best anemic. 
+One way to ‘cure’ my Facebook blues is to publish more and deeper content to the platform. That of course is fine but only as long as it is ad accompanies because as readers will already know, Facebook throttled non-revenue generating branded content a while back. In short – gimme all your money or don’t play. 
+When Facebook sputters about not knowing much about the Russian advertisers in front of Congress then I am no longer surprised. The company that claims to have the most complete social graph on the planet cant serve our ads to the right demographic but makes up for that by slinging them out to Russian Facebook members. 
+Image credit - wikimedia

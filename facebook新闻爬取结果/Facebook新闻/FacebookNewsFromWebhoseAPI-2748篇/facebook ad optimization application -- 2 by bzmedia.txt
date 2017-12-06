@@ -1,0 +1,6 @@
+Facebook API Facebook Ad Optimization Application -- 2 
+I want to build an application that will optimize facebook ads according to a model which i have build in Microsoft Excel. it should be able to optimize an unlimited campaigns at the same time using different optimization parameters for each campaign. 
+It consists of pulling data from facebook = from csv exports, aggregation and calculation of values and generation of new csv files according to the logical models and the parameters selected for each campaign. 
+i am looking for a developer who has minimum 5+ years experience in data processing and web application developmnt and understands the logic behind ad optimization and knows how to read different online marketing performance indicators. 
+another requirement is fluent englisch (or german) and not more than 3 hours time difference to central europe. 
+requirements and budget can be discussed during skype sessions. it will take about 8 hours to fully discuss the requirements and i guess it will need several weeks of development time for first version.

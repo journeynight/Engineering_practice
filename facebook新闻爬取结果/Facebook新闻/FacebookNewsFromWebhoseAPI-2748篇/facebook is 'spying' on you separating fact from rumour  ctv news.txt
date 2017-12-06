@@ -1,0 +1,37 @@
+Advertisement Is Facebook listening to your conversations? Probably not, tech expert says 
+A view of and Apple iPhone displaying the Facebook app's splash screen on May 10th 2012. (KAREN BLEIER / AFP) @SonjaPuzic   1:51PM EST 
+Two friends are sitting in a coffee shop, discussing what they might wear to an upcoming holiday party. One of the women mentions that she’s been eyeing a dress from a well-known fashion brand. 
+On her way home an hour later, the other woman scrolls through Facebook on her phone and sees an ad for the same dress her friend had described. 
+Sound familiar? 
+If you type “Are Facebook and Instagram listening to me?” into a search browser, you’ll find reams of articles, blog posts and podcasts, all speculating that social media apps are using the microphones on personal tech devices to listen in on conversations, then serving up ads based on what they hear. 
+How else to explain an ad for tents popping up in your Facebook feed after casually mentioning to your partner that you two should go camping next summer? 
+Conspiracy theories about apps’ surreptitious use of smartphone microphones have been around for years, and did not go away even after Facebook, which owns Instagram, explicitly denied listening to its users’ conversations. 
+“Facebook does not use your phone’s microphone to inform ads or to change what you see in News Feed,” the company said in a June, 2016 statement . “Some recent articles have suggested that we must be listening to people’s conversations in order to show them relevant ads. This is not true.” 
+More recently, Facebook’s vice-president of ad products also denied that the social media network uses microphones to boost targeted ads. 
+In response to a recent Reply All podcast on the subject, Rob Goldman tweeted : “We don’t – and have never – used your microphone for ads. Just not true.” 
+But the internet is full of examples of “creepy” ads that seem too precisely targeted to be the product of mere coincidence. Most people who strongly believe their apps are listening to their conversations say they have never searched, liked or posted online about the advertised products. 
+Some users have even conducted their own experiments , which they say prove that certain apps are listening to their daily conversations. 
+But tech experts are skeptical. 
+“Are your apps using your microphone to spy on you? Probably not,” Avery Swartz, a tech adviser and web consultant, told CTVNews.ca in a telephone interview from Toronto. 
+But she said apps like Facebook are certainly “listening” to us in many other ways, and have collected massive amounts of personal data about each user. 
+“People in the general public have no idea how much Facebook knows about (them),” Swartz said. 
+How websites track your activities 
+Most people know that they’re shown targeted ads based on their Facebook and Instagram posts and interactions with other users, including what they “like,” where they “check in” and the videos and links they click on. 
+But targeted ads are also based on your Facebook friends’ interests, visits to other websites, and even your offline activities, Swartz said. 
+So, even if you’ve never searched for a particular item or brand online, but one of your Facebook friends did, she said you might start seeing related ads. 
+Facebook does offer some insight into how its ads work and how it helps advertisers target very specific audiences. 
+If you joined a loyalty program at your neighbourhood supermarket, for example, your contact information may be added to that business’ customer list, which is then matched to your Facebook profile. As a result, you’ll start seeing ads from that supermarket when you’re on Facebook. 
+Businesses and organizations can also install a small snippet of code called the Facebook pixel on their websites, which allows advertisers to show ads in Facebook based on users’ website visits or online shopping purchases outside of Facebook. 
+ProPublica, an American non-profit organization dedicated to investigative journalism, explained last year how Facebook obtains detailed information from commercial data brokers in the U.S. about its users’ offline lives. That can include sensitive data such as personal income and credit card usage. 
+A Facebook spokesperson told CTVNews.ca that the company complies with Canadian privacy laws and does not collect sensitive personal information from data brokers in Canada. 
+The Office of the Privacy Commissioner of Canada told CTVNews.ca it has not investigated any complaints involving audio recordings of conversations by smartphone apps. 
+The office noted that Canada’s Personal Information Protection and Electronic Documents Act, or PIPEDA, requires organizations to obtain “valid informed consent to collect, use or disclose personal information.” 
+Over the last several years, the privacy commissioner has released guidelines on “online behavioural advertising” and how apps should communicate their privacy practices to their users. 
+Swartz said that Facebook is constantly tracking “tens of thousands of things that you may or may not be interested in.” Its algorithms are very good at analyzing seemingly unrelated piles of data and identifying patterns in users’ interests and activities, she added. 
+A psychological phenomenon known as frequency illusion may also be fuelling the seemingly endless “Facebook is listening to us” anecdotes, Swartz said. 
+The phenomenon describes someone who has just learned a new piece of information and then starts encountering it everywhere. That could explain why, after discussing a particular dress with a friend, you’ll start making mental note of ads for that dress, even though you may have encountered them before without really noticing, Swartz said. 
+What you can do about targeted ads 
+If you’re uncomfortable with how advertisers are tracking you on Facebook, you can change the ad settings on your account. Under the “Your ad preferences” section of “Settings” you can adjust how ads are shown to you based on certain profile fields, including relationship status and job title. 
+You can also opt out of the Facebook pixel function by saying “no” to “Ads on apps and websites off of the Facebook Companies.” 
+Swartz said downloading ad blockers is another option to avoid targeted ads in general. There is also a browser extension called Ghostery, which shows you how websites are tracking your information, she said. 
+And if you’re still convinced that your apps are listening to your conversations, you can always revoke their access to your smartphone microphone in the apps’ settings. Related Stories

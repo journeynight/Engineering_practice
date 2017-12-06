@@ -1,0 +1,12 @@
+Facebook Introduces a Simple Polling Feature With Support for GIFs 483 584 READS 
+Facebook has rolled out a new feature to pages and profiles that will allow users to post simple polls, and even add GIFs to them as well. 
+Polls include one question and two choices of answers, similar to the new Instagram polls that were introduced recently. 
+To create a poll, first start creating a status update and scroll to the bottom to find the poll option. 
+
+You will then be presented with several text boxes where you can enter your question and the two possible answers. 
+You’re certainly welcome to create a plain text poll, but if you want to add a bit of flair you can include GIFs with your poll responses. 
+Here’s an example I created: 
+
+The poll duration can also be customized, with options including: 1 day, 1 week, never, and custom. 
+Again, polls can be utilized by either pages or individual profiles. Polls have been available to pages, though previously they could only be text-based. 
+This marks the first time GIF-based polls can be created by pages, besides a few limited tests. This also marks the first time polls can be created by Facebook profiles at all. ADVERTISEMENT

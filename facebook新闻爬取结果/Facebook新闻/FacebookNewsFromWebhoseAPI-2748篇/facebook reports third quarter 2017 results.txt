@@ -1,0 +1,668 @@
+MENLO PARK, Calif. , Nov. 1, Facebook, Inc. (NASDAQ: FB ) today reported financial results for the quarter ended September 30, 2017.
+"Our community continues to grow and our business is doing well," said Mark Zuckerberg , Facebook founder and CEO. "But none of that matters if our services are used in ways that don't bring people closer together. We're serious about preventing abuse on our platforms. We're investing so much in security that it will impact our profitability. Protecting our community is more important than maximizing our profits."
+Third Quarter 2017 Financial Highlights
+Three Months Ended
+September 30,
+Year-over-
+Year % Change
+In millions, except percentages and per share amounts
+2017
+2016
+Revenue:
+ Advertising
+$
+10,142
+$
+6,816
+49
+%
+ Payments and other fees
+186
+195
+(5)
+%
+Total revenue
+10,328
+7,011
+47
+%
+Total costs and expenses (1)
+5,206
+3,894
+34
+%
+Income from operations (1)
+$
+5,122
+$
+3,117
+64
+%
+Operating margin (1)
+50
+%
+44
+%
+Provision for income taxes
+$
+529
+Effective tax rate
+10
+%
+Net income (1)
+$
+4,707
+$
+2,627
+79
+%
+Diluted Earnings per Share (EPS) (1)
+$
+1.59
+$
+0.90
+77
+%
+(1)
+In the fourth quarter of 2016, we elected to early adopt Accounting Standards Update No. 2016-09, Compensation - Stock Compensation (Topic 718): Improvement to Employee Share-based Payment Accounting (ASU 2016-09). We were required to reflect any adoption adjustments as of January 1, 2016, the beginning of the annual period that included the interim period of adoption. As such, certain financial highlights data for the three months ended September 30, 2016 had been adjusted to reflect the impact of ASU 2016-09 adoption. See Note 1 — Summary of Significant Accounting Policies (Note 1) in the notes to our consolidated financial statements in our Annual Report on Form 10-K for the year ended December 31, 2016 for detailed adoption information.
+Third Quarter 2017 Operational and Other Financial Highlights
+Daily active users (DAUs) – DAUs were 1.37 billion on average for September 2017 , an increase of 16% year-over-year. Monthly active users (MAUs) – MAUs were 2.07 billion as of September 30, 2017, an increase of 16% year-over-year. Mobile advertising revenue – Mobile advertising revenue represented approximately 88% of advertising revenue for the third quarter of 2017, up from approximately 84% of advertising revenue in the third quarter of 2016. Capital expenditures – Capital expenditures for the third quarter of 2017 were $1.76 billion . Cash and cash equivalents and marketable securities – Cash and cash equivalents and marketable securities were $38.29 billion at the end of the third quarter of 2017. Headcount – Headcount was 23,165 as of September 30, 2017, an increase of 47% year-over-year. Webcast and Conference Call Information
+Facebook will host a conference call to discuss the results at 2 p.m. PT / 5 p.m. ET today. The live webcast of Facebook's earnings conference call can be accessed at investor.fb.com, along with the earnings press release, financial tables, and slide presentation. Facebook uses the investor.fb.com and newsroom.fb.com websites as well as Mark Zuckerberg's Facebook Page ( https://www.facebook.com/zuck ) as means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD.
+Following the call, a replay will be available at the same website. A telephonic replay will be available for one week following the conference call at +1 (404) 537-3406 or +1 (855) 859-2056, conference ID 81859774.
+About Facebook
+Founded in 2004, Facebook's mission is to give people the power to build community and bring the world closer together. People use Facebook to stay connected with friends and family, to discover what's going on in the world, and to share and express what matters to them.
+Contacts
+Investors:
+Deborah Crawford
+investor@fb.com / investor.fb.com
+Press:
+Vanessa Chan
+press@fb.com / newsroom.fb.com
+Forward Looking Statements
+This press release contains forward-looking statements regarding our future business expectations, which are subject to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are only predictions and may differ materially from actual results due to a variety of factors including: our ability to retain or increase users and engagement levels; our reliance on advertising revenue; our dependency on mobile operating systems, networks, and standards that we do not control; risks associated with new product development and their introduction as well as other new business initiatives; our emphasis on user growth and engagement and the user experience over short-term financial results; competition; litigation; privacy and regulatory concerns; risks associated with acquisitions; security breaches; and our ability to manage growth and geographically-dispersed operations. These and other potential risks and uncertainties that could cause actual results to differ from the results predicted are more fully detailed under the caption "Risk Factors" in our Quarterly Report on Form 10-Q filed with the SEC on July 27, 2017 , which is available on our Investor Relations website at investor.fb.com and on the SEC website at www.sec.gov . Additional information will also be set forth in our Quarterly Report on Form 10-Q for the quarter ended September 30, 2017 . In addition, please note that the date of this press release is November 1, 2017, and any forward-looking statements contained herein are based on assumptions that we believe to be reasonable as of this date. We undertake no obligation to update these statements as a result of new information or future events.
+Non-GAAP Financial Measures
+To supplement our condensed consolidated financial statements, which are prepared and presented in accordance with generally accepted accounting principles in the United States (GAAP), we use the following non-GAAP financial measures: revenue excluding foreign exchange effect, advertising revenue excluding foreign exchange effect and free cash flow. The presentation of these financial measures is not intended to be considered in isolation or as a substitute for, or superior to, financial information prepared and presented in accordance with GAAP. Investors are cautioned that there are material limitations associated with the use of non-GAAP financial measures as an analytical tool. In addition, these measures may be different from non-GAAP financial measures used by other companies, limiting their usefulness for comparison purposes. We compensate for these limitations by providing specific information regarding the GAAP amounts excluded from these non-GAAP financial measures.
+We believe these non-GAAP financial measures provide investors with useful supplemental information about the financial performance of our business, enable comparison of financial results between periods where certain items may vary independent of business performance, and allow for greater transparency with respect to key metrics used by management in operating our business.
+We exclude the following items from our non-GAAP financial measures:
+Foreign exchange effect on revenue . We translated revenue for the three and nine months ended September 30, 2017 using the prior year's monthly exchange rates for our settlement currencies other than the U.S. dollar, which we believe is a useful metric that facilitates comparison to our historical performance.
+Purchases of property and equipment. We subtract purchases of property and equipment in our calculation of free cash flow because we believe that this methodology can provide useful supplemental information to help investors better understand underlying trends in our business. Free cash flow is not intended to represent our residual cash flow available for discretionary expenditures.
+For more information on our non-GAAP financial measures and a reconciliation of GAAP to non-GAAP measures, please see the "Reconciliation of GAAP to Non-GAAP Results" table in this press release.
+FACEBOOK, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except for per share amounts)
+(Unaudited)
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+2017
+2016 (1)
+2017
+2016 (1)
+Revenue
+$
+10,328
+$
+7,011
+$
+27,681
+$
+18,829
+Costs and expenses:
+Cost of revenue
+1,448
+987
+3,843
+2,742
+Research and development
+2,052
+1,542
+5,805
+4,356
+Marketing and sales
+1,170
+926
+3,351
+2,654
+General and administrative
+536
+439
+1,831
+1,217
+Total costs and expenses
+5,206
+3,894
+14,830
+10,969
+Income from operations
+5,122
+3,117
+12,851
+7,860
+Interest and other income, net
+114
+47
+281
+125
+Income before provision for income taxes
+5,236
+3,164
+13,132
+7,985
+Provision for income taxes
+529
+537
+1,467
+1,337
+Net income
+$
+4,707
+$
+2,627
+$
+11,665
+$
+6,648
+Less: Net income attributable to participating securities
+3
+7
+13
+20
+Net income attributable to Class A and Class B common
+stockholders
+$
+4,704
+$
+2,620
+$
+11,652
+$
+6,628
+Earnings per share attributable to Class A and Class B common
+stockholders:
+Basic
+$
+1.62
+$
+0.91
+$
+4.02
+$
+2.32
+Diluted
+$
+1.59
+$
+0.90
+$
+3.95
+$
+2.28
+Weighted average shares used to compute earnings per share attributable
+to Class A and Class B common stockholders:
+Basic
+2,904
+2,871
+2,898
+2,857
+Diluted
+2,956
+2,931
+2,954
+2,918
+Share-based compensation expense included in costs and expenses:
+Cost of revenue
+$
+47
+$
+30
+$
+128
+$
+81
+Research and development
+776
+636
+2,233
+1,853
+Marketing and sales
+114
+95
+330
+272
+General and administrative
+73
+63
+218
+181
+Total share-based compensation expense
+$
+1,010
+$
+824
+$
+2,909
+$
+2,387
+(1)
+We elected to early adopt ASU 2016-09 in the fourth quarter of 2016. Our condensed consolidated statements of income for the three and nine months ended September 30, 2016 had been adjusted to reflect the impact of ASU 2016-09 adoption. See Note 1 in the notes to our consolidated financial statements in our Annual Report on Form 10-K for the year ended December 31, 2016 for detailed adoption information.
+FACEBOOK, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In millions)
+(Unaudited)
+September 30, 2017
+December 31, 2016
+Assets
+Current assets:
+Cash and cash equivalents
+$
+7,201
+$
+8,903
+Marketable securities
+31,088
+20,546
+Accounts receivable, net of allowances for doubtful accounts of $103 and $94 as of September 30,
+2017 and December 31, 2016, respectively
+4,424
+3,993
+Prepaid expenses and other current assets
+1,490
+959
+ Total current assets
+44,203
+34,401
+Property and equipment, net
+12,158
+8,591
+Intangible assets, net
+2,050
+2,535
+Goodwill
+18,213
+18,122
+Other assets
+2,374
+1,312
+Total assets
+$
+78,998
+$
+64,961
+Liabilities and stockholders' equity
+Current liabilities:
+Accounts payable
+$
+383
+$
+302
+Partners payable
+314
+280
+Accrued expenses and other current liabilities
+2,503
+2,203
+Deferred revenue and deposits
+105
+90
+ Total current liabilities
+3,305
+2,875
+Other liabilities
+4,485
+2,892
+ Total liabilities
+7,790
+5,767
+Stockholders' equity:
+Common stock and additional paid-in capital
+40,199
+38,227
+Accumulated other comprehensive loss
+(200)
+(703)
+Retained earnings
+31,209
+21,670
+ Total stockholders' equity
+71,208
+59,194
+Total liabilities and stockholders' equity
+$
+78,998
+$
+64,961
+FACEBOOK, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+(Unaudited)
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+2017
+2016 (1)
+2017
+2016 (1)
+Cash flows from operating activities
+Net income
+$
+4,707
+$
+2,627
+$
+11,665
+$
+6,648
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Depreciation and amortization
+773
+591
+2,172
+1,728
+Share-based compensation
+1,010
+824
+2,909
+2,387
+Deferred income taxes
+(94)
+(23)
+(152)
+(201)
+Other
+7
+4
+18
+23
+Changes in assets and liabilities:
+Accounts receivable
+(458)
+(253)
+(235)
+(478)
+Prepaid expenses and other current assets
+(57)
+(57)
+(634)
+(314)
+Other assets
+47
+42
+130
+46
+Accounts payable
+31
+18
+(7)
+(21)
+Partners payable
+32
+6
+22
+20
+Accrued expenses and other current liabilities
+(62)
+228
+95
+642
+Deferred revenue and deposits
+16
+(2)
+12
+21
+Other liabilities
+176
+31
+550
+677
+Net cash provided by operating activities
+6,128
+4,036
+16,545
+11,178
+Cash flows from investing activities
+Purchases of property and equipment
+(1,755)
+(1,095)
+(4,470)
+(3,222)
+Purchases of marketable securities
+(6,273)
+(7,733)
+(20,410)
+(17,368)
+Sales of marketable securities
+3,651
+5,633
+7,649
+9,791
+Maturities of marketable securities
+730
+131
+2,228
+1,034
+Acquisitions of businesses, net of cash acquired, and purchases of
+intangible assets
+(98)
+(61)
+(106)
+(81)
+Change in restricted cash and deposits
+31
+8
+64
+82
+Net cash used in investing activities
+(3,714)
+(3,117)
+(15,045)
+(9,764)
+Cash flows from financing activities
+Taxes paid related to net share settlement of equity awards
+(866)
+(6)
+(2,360)
+(6)
+Principal payments on capital lease and other financing obligations
+—
+—
+—
+(312)
+Repurchases of Class A common stock
+(640)
+—
+(1,018)
+—
+Other financing activities, net
+(26)
+(2)
+(14)
+4
+Net cash used in financing activities
+(1,532)
+(8)
+(3,392)
+(314)
+Effect of exchange rate changes on cash and cash equivalents
+67
+19
+190
+31
+Net increase (decrease) in cash and cash equivalents
+949
+930
+(1,702)
+1,131
+Cash and cash equivalents at beginning of period
+6,252
+5,108
+8,903
+4,907
+Cash and cash equivalents at end of period
+$
+7,201
+$
+6,038
+$
+7,201
+$
+6,038
+FACEBOOK, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+(Unaudited)
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+2017
+2016 (1)
+2017
+2016 (1)
+Supplemental cash flow data
+Cash paid during the period for:
+Interest
+$
+—
+$
+—
+$
+—
+$
+11
+Income taxes, net
+$
+434
+$
+357
+$
+1,793
+$
+764
+Non-cash investing and financing activities:
+ Net change in accounts payable, accrued expenses and other current
+liabilities, and other liabilities related to property and equipment additions
+$
+285
+$
+230
+$
+441
+$
+319
+Settlement of acquisition-related contingent consideration liability
+$
+102
+$
+33
+$
+102
+$
+33
+Change in unsettled repurchases of Class A common stock
+$
+(10)
+$
+—
+$
+20
+$
+—
+(1)
+We elected to early adopt ASU 2016-09 in the fourth quarter of 2016. Our condensed consolidated statements of cash flows for the three and nine months ended September 30, 2016 had been adjusted to reflect the impact of ASU 2016-09 adoption. See Note 1 in the notes to our consolidated financial statements in our Annual Report on Form 10-K for the year ended December 31, 2016 for detailed adoption information.
+Reconciliation of GAAP to Non-GAAP Results
+(In millions, except percentages)
+(Unaudited)
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+2017
+2016
+2017
+2016
+GAAP revenue
+$
+10,328
+$
+7,011
+$
+27,681
+$
+18,829
+ Foreign exchange effect on 2017 revenue using 2016 rates
+(128)
+36
+Revenue excluding foreign exchange effect
+$
+10,200
+$
+27,717
+GAAP revenue year-over-year change %
+47
+%
+47
+%
+Revenue excluding foreign exchange effect year-over-year change %
+45
+%
+47
+%
+GAAP advertising revenue
+$
+10,142
+$
+6,816
+$
+27,163
+$
+18,256
+ Foreign exchange effect on 2017 advertising revenue using 2016 rates
+(128)
+35
+Advertising revenue excluding foreign exchange effect
+$
+10,014
+$
+27,198
+GAAP advertising revenue year-over-year change %
+49
+%
+49
+%
+Advertising revenue excluding foreign exchange effect year-over-
+year change %
+47
+%
+49
+%
+Net cash provided by operating activities (1)
+$
+6,128
+$
+4,036
+$
+16,545
+$
+11,178
+ Purchases of property and equipment
+(1,755)
+(1,095)
+(4,470)
+(3,222)
+Free cash flow (1)
+$
+4,373
+$
+2,941
+$
+12,075
+$
+7,956
+(1)
+We elected to early adopt ASU 2016-09 in the fourth quarter of 2016. Net cash provided by operating activities and free cash flow for the three and nine months ended September 30, 2016 had been adjusted to reflect the impact of ASU 2016-09 adoption. See Note 1 in the notes to our consolidated financial statements in our Annual Report on Form 10-K for the year ended December 31, 2016 for detailed adoption information.
+ with multimedia: releases/facebook-reports-third-quarter-2017-results-300547810.html
+SOURCE Facebook
+ //www.facebook.com

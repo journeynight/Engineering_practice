@@ -1,0 +1,22 @@
+Facebook asks users to share their most embarrassing naked photos in Messenger to combat revenge porn The social network is testing a new strategy to combat revenge porn in Australia Share Sophie Curtis Technology and Science Editor 16:31, 8 NOV 2017 Get daily updates directly to your inbox + Subscribe Could not subscribe, try again later Invalid Email 
+Facebook is testing a controversial new method for tackling the rise of so-called revenge porn . 
+The world's biggest social network is asking users to upload naked photos or videos of themselves to its Messenger app, to help train its algorithm to recognise explicit images. 
+Facebook has teamed up with the office of the Australian government's e-Safety Commissioner on the initiative, which it claims will allow victims of "image-based abuse" to take action. 
+"We see many scenarios where maybe photos or videos were taken consensually at one point, but there was not any sort of consent to send the images or videos more broadly," e-Safety Commissioner Julie Inman Grant told the Australia Broadcasting Corporation . (Image: Rex) 
+The idea is that anyone who is worried about a particular explicit image of themselves being shared online should send a copy of that image to themselves inside Messenger. 
+Facebook will then use its technology to "hash" the image, which means giving it a digital fingerprint. 
+"They're not storing the image, they're storing the link and using artificial intelligence and other photo-matching technologies," Ms Inman Grant explained. 
+If somebody - like a hacker or an ex - then tries to upload the image to Facebook, Instagram or Messenger in an act of revenge porn, the digital fingerprint will be recognised, and it will be prevented from being uploaded. (Image: Getty) Facebook's 'revenge porn' policy revealed - THIS is what Zuckerberg counts as abuse 
+Ms Inman Grant added that safeguards were in place to ensure the photos remained secure inside Facebook. 
+"It would be like sending yourself your image in email, but obviously this is a much safer, secure end-to-end way of sending the image without sending it through the ether," she said. 
+"They thought of many different ways about doing this and they came to the conclusion as one of the major technology companies in the world that this was the safest way for users to share the digital footprints. 
+"We have a great deal of comfort that they have chosen the most secure route … we want to empower people to be able to protect themselves and take action, we don't want to make them vulnerable." (Image: Getty) Read More 
+Facebook introduced a similar, although less preemptive, method for preventing the spread of revenge porn back in April. 
+This involved using a similar photo-matching technique to identify images that had already been reported and removed from the social network, to help thwart further attempts to share the image. 
+But hashing technology is not foolproof. Hackers and researchers have demonstrated how "adversarial images" can be used to trick AI algorithms by inserting enough hidden data in between the lines of an image to make it seem different from the source. 
+Facebook's technology is still in the trial phase, so it will need to go through rigorous testing before it is rolled out across the social network. (Image: Getty Images) 
+Commenting on the news, Alexandra Whiston-Dew, lawyer at Mishcon de Reya, said that, if it works, the initiative could really help victims of revenge porn. 
+"Publication on Facebook is often the most devastating platform for the victims – they have their friends, family, work colleagues all gathered in one place for maximum humiliation by publication," she said. 
+"Also, because it is such a longstanding social media platform, users have built up a presence over several years so shutting down an account or even making it private can have a negative impact on victims. 
+"We would expect that Facebook has absolutely water tight systems to guard the privacy of the victims. 
+"It is quite counterintuitive to send such intimate images to an unknown recipient and Facebook will need to be able to reassure people that they have the right measures in place to protect them." Like us on Facebook

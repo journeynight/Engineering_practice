@@ -1,0 +1,9 @@
+Facebook Introduces Messenger Chat Plugin for Business Websites 949 2.4K READS 
+Facebook has revealed details about version 2.2 of its Messenger platform, which comes with a highly requested customer chat plugin. 
+With Messenger Platform 2.2, Facebook aims to help businesses and developers “reach their customers in new and engaging ways.” 
+The newest way for businesses to engage with customers is with Facebook Messenger’s new chat plugin. 
+Messenger’s customer chat plugin allows businesses to carry on conversations with customers between their website and Facebook Messenger. 
+That means a conversation can begin on a business’s website and then seamlessly transition to Messenger, or vice versa, without losing any of the chat history. 
+The same conversation can go back and forth between the website and Messenger, making it easier for customers to remain in contact with a business however it’s most convenient for them. 
+Facebook’s customer chat plugin is designed for desktop, mobile, and tablet. It also supports current Messenger capabilities such as payments and rich media. 
+Messenger Platform 2.2 is available in only in closed beta for the time being. Businesses interested in using the customer chat plugin can join the waitlist by filling out this form . ADVERTISEMENT

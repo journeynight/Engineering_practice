@@ -1,0 +1,13 @@
+SoftBank Teams With Facebook and Amazon on Undersea Internet Cable It'll connect California, Japan, and the Philippines. By Robert Hackett October 30, 2017 
+Facebook fb , Amazon amzn , and several global telecom firms are joining forces to lay an undersea Internet cable between the U.S. and Asia. 
+The agreement signals top tech companies’ anticipation of a growing need for international connectivity as the world’s business goes digital. The initial design calls for a cable that will be able to handle data transmission at a rate of more than 60 terabits per second—far quicker than the speed of your home Internet connection. 
+The wire is expected to extend roughly 8,700 miles beneath the Pacific Ocean from Hermosa Beach, near Los Angeles, to Japan and the Philippines. 
+Japanese investment firm SoftBank , another of the partners on the cable project, cited an “exponential growth” of so-called Internet of things devices, meaning gadgets linked up to the Internet, as one of the reasons for the cable’s construction. Research firm Gartner forecasts the number of connected devices to explode from more than 8 billion this year to more than 20 billion by 2020, the same year the cable, called Jupiter, is slated for completion. 
+Read more: “What’s the likelihood of a nightmarish undersea Internet cable attack?” 
+“The demand for bandwidth in the Pacific region continues to grow at a remarkable rate, and is accompanied by the rise of capacity-dependent applications like live video, augmented and virtual reality, and 4k/8k video,” Koji Ishii, a general manager at SoftBank and co-chair of the Jupiter consortium, said in a statement , as noted by the tech blog VentureBeat . 
+The big tech companies’ interests are clear. Facebook and Amazon, for instance, want to build more pipes for video streaming, which is a major area of investment for both. 
+Other companies involved in the project include Japan’s NTT Communications, Hong Kong’s PCCW Global, and the Philippines’ PLDT. TE SubCom, a New Jersey-based cable-maker, has signed on to provide the equipment. 
+You can see a map of the cable’s planned location below. Via SoftBank 
+Tech companies have been entering into deals to lay undersea cables at a rapid clip in recent months. A month ago Microsoft msft and Facebook partnered on one that now spans the Atlantic Ocean . Meanwhile, Google recently began funding “ Indigo ,” a project that aims to connect Asia and Australia. And Google and Facebook have backed other recent transpacific cables too. 
+Get Data Sheet , Fortune ’s technology newsletter 
+Expect more Internet cables to be laid along ocean floors as the need to shuttle data between continents rises. SPONSORED FINANCIAL CONTENT

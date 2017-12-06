@@ -1,0 +1,3 @@
+You can now send PayPal invoices through Facebook Messenger 21 November 2017 | 3100 views | 0 PayPal users selling their old Lego bricks can now create and send invoices within Facebook Messenger. 
+To use the new feature, sellers open the extension tray within Messenger, select PayPal and create the invoice, with the item name, description, price and quantity. They then send it to the buyer, who can press the Pay with PayPal button and complete the transaction with PayPal One Touch. 
+The move comes a month after PayPal introduced person-to-person payments within Messenger. The firm also has a Messenger customer service bot.

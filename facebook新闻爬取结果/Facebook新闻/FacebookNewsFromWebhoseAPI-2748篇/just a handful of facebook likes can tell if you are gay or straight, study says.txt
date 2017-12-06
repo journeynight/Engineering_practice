@@ -1,0 +1,17 @@
+James Titcomb 21 November 2017 • 3:45pm 
+J ust a few Facebook likes can identify users' sexual orientation or political and religious beliefs, a study has shown. 
+US researchers found that as few as three likes on the social network can be the difference between advertisers being able to identify users as gay or not for targeting purposes. This was the case even when users had deliberately withheld such information from Facebook. 
+They proposed that social networks introduce a "cloaking system" that allows users to prevent such inferences being drawn against their will, even when they are accurate. 
+The information that Facebook holds on its users has often revealed personal information that people might be uncomfortable with the social network knowing. This includes contact information shared by others, location data, and browsing history. 
+But the social network also characterises users based on what pages they have liked, a key indicator of their interests. Previous research has shown how Facebook likes can reveal our personalities, but this study shows that it only requires a few likes to be hidden to stop these portrayals. A chart showing some of the likes used to infer a person is gay 
+T he study from researchers at Columbia Business School in New York, Northeastern University in Boston, and New York University was published in the journal Big Data. 
+The authors wanted to work out how likes can identify traits including sexual orientation, IQ, whether they smoke or drink, political beliefs and religious beliefs. 
+T hey found that fewer than eight likes were typically needed to distinguish between a person being confidently identified as one of these traits, and not identified. 
+For example, liking pages for Lady Gaga, the Human Rights Campaign, the TV show True Blood and Harry Potter are likely to mean Facebook identifying someone as gay. Such inferences are increasingly being used by advertisers as consumers become more wary of giving away information. 
+The study found that by "cloaking" a small number of likes, so that they could not be used to determine a personality trait, Facebook users could stop assumptions being drawn. 
+Hiding on average 3.5 likes would stop Facebook inferring a user was gay, 12.2 for a drug user and 11.7 for a Muslim. The number of cloaked likes needed for "false positives" - users incorrectly identified with a trait - was typically lower at, for example, 2.9 for being gay. 
+T he researchers said many would find this unsettling. "Online marketers increasingly depend on statistical inferences based on available information," they said. 
+"While some online users may benefit from being targeted based on inferences of their personal characteristics, others may find such inferences unsettling. 
+"Not only may these inferences be incorrect due to a lack of data or inadequate models, some users may not wish to have certain characteristics inferred at all. To many, privacy invasions via statistical inferences are at least as troublesome as privacy invasions based on personal data." 
+T hey propose allowing Facebook users to prevent inferences based on certain likes. For example, if a user sees an advert for an LGBTQ activism group, they could request that such inferences are not made again. 
+"The cloaking device essentially tells the system: ‘do not draw inferences like this about me' - or more practically, 'do not show me ads or content for the same reasons that you decided to show me this'," the authors said. Related Topics

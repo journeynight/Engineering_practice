@@ -1,0 +1,90 @@
+Stretch says the activity is focused on hot-button topics inflaming discourse. 
+“Approximately 90% of the volume we saw on the ad side was issues-based.” 
+“In terms of the total volume of material on the site it’s small...” 7.08pm GMT 
+Stretch says FB has been tracking foreign actors since before and after the election. 
+“Following the election, the activity we’ve seen really continued, in the sense that... this concerted effort to sow division and discord... In the wake.. we saw a lot of activity... fomenting discord about the validity of his election... it continued until we disabled the accounts.” 
+Twitter: “These automated accounts continued.” 7.06pm GMT 
+Edgett, of Twitter, says the accounts come ‘disproportionately’ out of Russia. 7.05pm GMT 
+Graham starts. Other than Russia, he says, what nations are you concerned about tampering in elections? 
+Stretch says threat actors tied to nation states around the world. He’s going jargony. 
+“It’s really only recently that we’ve seen this threat evolve into... dissemination of misinformation.” 7.03pm GMT 
+Salgado seeks to draw a line between Google and the other two companies: 
+“Google’s products don’t lend themselves to the kind of targeting or viral dissemination that the attackers seem to prefer.” 
+He says the company is carrying out new safeguards on election ads. 7.03pm GMT 
+Now it’s Richard Salgado, director of law enforcement and infosec at Google. 
+He used to be at the justice department, focusing on hacking. 
+“We recognize ... that our services can be misused. State-sponsored attackers can be particularly pernicious... they are difficult to recognize.” 
+They’ve been working for a long time on the threat, he says. 
+YouTube stops people from artificially inflate view counts, for example. As for 2016, were foreign entities disseminating information to interfere in the election? 
+They reviewed ads from June 15 2016 through the election. “We found two accounts that appeared to be engaged in activity... spent roughly $4,700 in connection with the 2016 election. 
+On YouTube 18 channels with 1,100 videos uploaded by suspects that contained political content. Just 3% had more than 1,000 views. 
+Relatively small but “we understand that any misuse... can be very serious.” 
+The YT videos weren’t targeted but links were posted elsewhere. 6.59pm GMT 
+Edgett says they’re working “to make sure the experience of 2016 never happens again.” Holler? 6.58pm GMT 
+Twitter is up next. “We are troubled by reports that the power of Twitter was misused by a foreign actor...” to tamper in the election, 
+Edgett calls it “a new challenge for us and one that we are determined to meet.” 
+Twitter is working to understand what happened and to stop it from happening again, he says. 
+Twitter has a review “under way” to ID all the Russian shadow accounts, he says. 
+“Our findings may be supplemented as we work with committee staff...” 
+He says they studied tweets from 1 September to 15 November 2016. 
+The number of accounts was small, he says. 1/3 of 1% of election-related tweets came from Russian bots, Edgett says. 
+Advertising by RT and Sputnik violated policy and has been banned, he says. 
+He says again that Twitter has changed ad policies and safety policies. 
+Nothing we didn’t already know. 6.54pm GMT 'The foreign interference we saw was reprehensible' 
+Being at the forefront of technology also means being at the forefront... of challenges, Stretch says. 
+He says he wants to talk about the threat of extremist content and efforts of foreign actors to interfere with the 2016 election. 
+He talks about posts by terrorists. Facebook has a protocol for fighting terrorism. 
+Then: 
+“We also believe we have an important role to play in the democratic process... 
+“We take what happened on FB very seriously. The foreign interference we saw was reprehensible... That foreign actors abused... to try to undermine the election is directly contrary to our values and undermines everything FB stands for.” 
+He says an investigation is ongoing. Imposter accounts placed ads that were used to create further posts. 
+“Much of it will be particularly painful to communities who engaged with this content believing it to be authentic.” 
+He says FB is hiring more ad reviewers, adding restrictions and engineers and requiring more information from ad buyers. Updated 6.50pm GMT Facebook: 'we are deeply concerned' 
+Stretch of Facebook starts talking. He appreciates the hard work of Congress. “We are deeply concerned about all of these threats,” he says. Updated at 6.56pm GMT 6.49pm GMT 
+Senator Feinstein said she had a briefing last week and saw “really for the first time how Russia has harnessed... the frightening-to-me power of social media” including by using “fake accounts” to manipulate opinion. 
+“How easily and successfully they turned modern technologies to their advantage,” Feinstein says. She says that’s not widely recognized yet. 
+Feinstein says the committee has documents confirming the Russian tampering, including 470 FB pages and more than 3,000 paid ads that sought to sow discord and amplify racial and social divisions; 2,752 imposter Twitter accounts and 37,000 Russian bots; and more. 
+Feinstein says she wants to know what’s going on and what the tech companies are prepared to do to stop it. 6.45pm GMT Who coordinated with Russian hackers? 
+Whitehouse says “no serious person can dispute” the hacking and theft of information by Russia. 
+Now Whitehouse jumps in with both feet. 
+“It’s been reported that Trump adviser Roger Stone communicated with Guccifer 2.0 through a cutout. 
+“But we don’t know the full story of who coordinated with Wikileaks or even directly with Russian hackers.” 
+“We still know next to nothing about the president’s business dealings in Russia and with Russians.. [because tax returns still secret.” 
+“We still don’t have answers about the president’s curious relationship with [former real estate partner] Felix Sater... we haven’t been able to speak with Sater or [Trump lawyer Michael] Cohen.” 
+“The Trump campaign and administration has had a very bad habit of forgetting meetings with Russia.” 
+Whitehouse touches on the June 2016 Trump Tower meeting, and the multiple emendations Jared Kushner had to make to his security clearance forms relating to foreign contacts. 
+“We still have more questions than answers.” 
+Whitehouse says the troll farm in St Petersburg, the Internet Research Agency, carried out a strategy of “posing as Americans to launder Russian propaganda messages and obscure their Russian origin.” 
+He suggests “propagandistic narratives became part of the mainstream news information sphere.” 6.39pm GMT 
+Senator Sheldon Whitehouse of Rhode Island is up. He uses the phrase “Russia’s meddling in the 2016 election,” which Graham, who recently became a bosom golfing buddy of Trump, did not. Really enjoyed a round of golf with President @realDonaldTrump today. President Trump shot a 73 in windy and wet conditions! — Lindsey Graham (@LindseyGrahamSC) October 9, 2017 Publicity seeking Lindsey Graham falsely stated that I said there is moral equivalency between the KKK, neo-Nazis & white supremacists — Donald J. Trump (@realDonaldTrump) August 17, 2017 6.37pm GMT 
+“To those who wish to undermine American life, they found portals into our society that are intermingled with everyday life,” Graham says. Well put. 6.36pm GMT 
+Graham says we have to be on our guard as a nation against people who would use this technology against us and calls it the “national security challenge of the 21st century.” 
+“The purpose of this hearing is to figure out how we can help you,” Graham says. 
+Oh. 
+He says he thinks the tech companies are taking the problem seriously. 6.34pm GMT 
+Graham says Trump said “from his point of view social media was an invaluable tool to help him win an election.” 
+All politicians and millions of Americans “use your technology,” Graham says. “You’ve enriched America.” 
+He jokes that “some people” should probably do less expressing themselves “in 140 characters.” Whose ears are burning. 6.31pm GMT 
+OK the witnesses are in their chairs and Republican Lindsey Graham, who’s running the show along with ranking member Dianne Feinstein, looks ready to begin. 6.25pm GMT 
+Here’s a live video stream of the proceedings (thx @jbl049 ): 
+Testifying today are: 
+Colin Stretch , Facebook general counsel 
+Sean Edgett , Twitter acting general counsel 
+Richard Salgado , Google director of information security 6.06pm GMT 
+In this blog we’ll consider how Russian tampering on social platforms in the 2016 election was carried out by online imposters and totally missed by the platform hosts. We’ll see how bad the hosts now feel about it all, if they do. 
+But another pot in the Trump-Russia affair has been simmering this week, with the announcement Monday that a former senior adviser to Trump had pleaded guilty to making false statements to the FBI, with whom he is now cooperating. Trump’s former campaign chairman and a deputy were separately charged. 
+You can read about the latest developments here: 
+Related: Donald Trump tweets dismiss George Papadopoulos as 'low level volunteer' 
+Do you think the Trump campaign colluded with Russian operatives to tamper in the 2016 US presidential election? 
+Your answer may reveal your party identity, more than anything. While a majority of the American public now believes that Russia tried to disrupt the US election, opinions about Trump campaign involvement tend to split along partisan lines: 73% of Republicans, but only 13% of Democrats, believe Trump did “nothing wrong” in his dealings with Russia and Russian president Vladimir Putin. 6.01pm GMT 
+This is off-topic but with a half hour to go till we’re underway and a national holiday to observe, here’s George HW Bush reviewing Halloween costumes from the back of a train: #Halloween 1992: "Oh, look at the witch there. And also the princess." Pres. @georgehwbush comments on costumes from back of moving train. pic.twitter.com/XGDpxHkMxA 3.41pm GMT Facebook, Google and Twitter go before Congress 
+Hello and welcome to our live coverage as representatives of three American tech giants appear before Congress to explain how and why Russian operatives were given free rein on their networks to tamper with the 2016 presidential election. 
+Starting at 2.30pm ET, representatives from Facebook, Google and Twitter are scheduled to appear before the Senate judiciary committee. Tomorrow the same three companies are to appear before the Senate and House intelligence committees. 
+All three companies have admitted extensive Russian infiltration. On Monday, Facebook announced that Russia-backed posts had reached 126 million Americans during the election. But the tech companies have been slow to hand over information about what happened on their networks, and some analysts believe the true extent of the digital Russian invasion may have been even greater. 
+Google has said Russian operatives bought election-related ads on YouTube and Gmail as well as on its search engine. On Thursday, Twitter suspended advertising from all accounts owned by the Kremlin-allied media outlets Russia Today (RT) and Sputnik. 
+The hearing is titled “Extremist Content and Russian Disinformation Online: Working with Tech to Find Solutions.” Testifying are a couple lawyers (from Facebook and Twitter) and a security officer (from Google). We’ll have a live video stream for you when it begins. 
+Will public outrage over the failure of the tech companies to prevent widespread election tampering last fall register at the hearing? Or will the committee play nice? Will the witnesses be challenged to provide more information about what happened on their networks? Will they accept responsibility? 
+One explosive charge against the companies, especially Facebook and Twitter, is that they failed (do they continue to fail?) to stop imposter Russian accounts from attacking the American social fabric where it is most vulnerable, along lines of race, gender, class and creed. 
+The imposter accounts took on the identities of activists or extremists on various sides of hot-button issues and interacted with Americans who might respond to messaging around those issues, and whose preferences they hoped to shape, reinforce, and track. 
+One question is how sophisticated the effort was to micro-target Americans who might belong to key voter groups, meaning swing voters or voters who lived in swing areas. Highly sophisticated micro-targeting may have had an effect, though difficult to gauge, on the vote tally. 
+Here’s some reading while we wait:

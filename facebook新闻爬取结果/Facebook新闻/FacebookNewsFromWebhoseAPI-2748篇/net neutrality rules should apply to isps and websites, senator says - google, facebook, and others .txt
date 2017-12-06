@@ -1,0 +1,19 @@
+Submissions must be primarily news and developments relating to technology 
+Self posts must contribute positively to /r/technology and foster reasonable discussion. 
+Submissions relating to business and politics must be sufficiently within the context of technology in that they either view the events from a technological standpoint or analyse the repercussions in the technological world. Please do not submit the following: 
+i) Submissions violating the guidelines. 
+ii) Images, audio or videos: Articles with supporting image and video content are allowed; if the text is only there to explain the media, then it is not suitable. A good rule of thumb is to look at the URL; if it's a video hosting site, or mentions video in the URL, it's not suitable. 
+iii) Requests for tech support, questions or help: submit to /r/techsupport , /r/AskTechnology , another relevant community or our weekly Support Saturday threads. 
+iv) Petitions, Surveys or Crowdfunding (Including ICOs) - submissions of this nature will be removed. 
+v) Submissions discussing the subreddit itself; they should be submitted to /r/TechnologyTalk , or messaged to the moderators of the subreddit . 
+vi) Submissions discussing one or more incidents of customer support. 
+vii) Mobile versions of sites, url shorteners: please directly submit the desktop version of a webpage in all cases. 2. Behaviour Remember the human You are advised to abide by reddiquette ; it will be enforced when user behavior is no longer deemed to be suitable for a technology forum. Remember; personal attacks, abusive language, trolling or bigotry in any form are therefore not allowed and will be removed. 3. Titles 
+Submissions must use either the articles and optionally a subtitle. Or, if neither are accurate, a suitable quote, which must: 
+adequately describe the content 
+adequately describe the content's relation to technology 
+be free of user editorialization or alteration of meaning. 4. Flair Please flair your submission appropriately. An extended guide to flairing can be found here, in the wiki . 5. Reddit-wide rules. All reddit-wide rules apply here . Do not post personal information; no facebook or social media links. Do not spam . Miscellanea 
+Want to host an AMA? Please message the moderators . 
+Our /u/AutoModerator configuration may be viewed here . 
+Removed threads will either be given a removal reason flair or comment response; please message the moderators if this did not occur. 
+All legitimate, answerable modmail inquiries or suggestions will be answered to the best of our abilities within a reasonable period of time. 
+Rule violators will be warned. Repeat offenders will be temporarily banned from one to seven days. An unheeded final warning will result in a permanent ban. This may be reversed upon evidence of suitable behavior. Related Subreddits

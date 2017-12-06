@@ -1,0 +1,13 @@
+​Executives from Facebook, Google and Twitter faced a second day of grilling from lawmakers on Wednesday, from a Senate committee demanding answers about Russian attempts to meddle in the recent U.S. election.
+The three companies are in Washington this week to tell various Senate committees what they know about what Russia did during the recent election campaign to try to influence results.
+Facebook revealed Tuesday that Russian-linked accounts managed to get viewed by up to 136 million Americans through fake posts that were shared widely.
+Major tech companies defend security measures On Wednesday, Facebook also revealed additional details about activities on its network, specifically that Instagram, the photo sharing network, was also targeted.
+Facebook's chief counsel Colin Stretch revealed that starting in October 2016, an additional 16 million people were reached by bogus Instagram accounts that were later suspended for being in violation of the site's terms of service.
+"It  pains me personally to see that our platform was abused in this way," Stretch said. 
+But Facebook wasn't alone in facing tough questions. Twitter's acting general counsel Sean Edgett was grilled by Virginia Republican Senator Mark Warner about why the site was so slow to act on accounts that were set up to disseminate misinformation.
+How partisan Twitter bots distort political popularity Twitter revealed this week that it had closed fewer than 3,000 accounts linked to Russian propaganda network, but those accounts generated more than one million election-related tweets in the run-up to last November's vote.
+Warner grilled Edgett about why the service doesn't do a better job about getting rid of fake accounts, especially once they go viral.
+He pointed out that one such, the now-deactivated @TEN_GOP, purported to be the official account of the Republican party in Tennessee. At its peak, the account had more than 156,000 followers, but was in fact a fake account run by Russian operatives.
+The Twitter account of the real Tennessee Republican party, by contrast, only had roughly 13,000 followers and complained to the company to shut down the imposter — but it took months for that to happen.
+"That was an absolute mess," Edgett told an irate Warner "[but] we've gotten better since."
+The testimony, which continues Wednesday and Thursday, can be viewed live in the player above.

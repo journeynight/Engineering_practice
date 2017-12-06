@@ -1,0 +1,11 @@
+Rules 
+/r/jailbreak does not allow piracy tools, sources, or websites. No pirated tweaks, apps, etc. Please also do not post or advertise products or services that are in violation of the trademarks of others or mirrors. Why? 
+Themes (and theme-related questions or news), setup showcases, and all questions regarding aestethic-oriented tweaks should be posted in /r/iOSthemes . Likewise, sideloading-related posts should be posted in /r/sideloaded . 
+Use tags in your title. Posts without tags will be automatically removed by AutoModerator. 
+Tags let readers automatically hide posts using RES and sort through topics that interest them. 
+No misleading/sensationalized titles, and titles must contain at least three words (excluding tags). Use detailed titles for both news and questions. Also, link to the source of news, such as the developer who made the announcement, instead of linking to blogspam. 
+No memes, image macros, DAE posts, or shitposts. Similar low-quality/low-effort posts will be removed. Please read here for clarification. 
+No posts about removing passcodes from locked devices or bypassing Activation Lock. 
+Giveaways cannot require more than comments for people to be eligible - no requiring likes/follows/etc. 
+Do not make posts asking for people to donate money to you by free will or by the sale of any item. If you're in need of free money, check out /r/beermoney . 
+Be civil and friendly. No egregiously insulting/rude, sexist, racist, homophobic, transphobic, etc. comments or posts. Additionally, do not be rude or unhelpful when responding to posts tagged [Question].

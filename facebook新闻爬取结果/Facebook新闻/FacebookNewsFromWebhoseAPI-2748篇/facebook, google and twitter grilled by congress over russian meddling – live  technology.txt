@@ -1,0 +1,67 @@
+Close Skip to main content switch to the International edition switch to the UK edition switch to the US edition switch to the Australia edition current edition: International edition The Guardian - Back to home become a 
+supporter subscribe find a job jobs sign in my account Comment activity Edit profile Email preferences Change password Sign out news opinion sport arts life All sections news headlines world news UK news science cities global development tech business environment obituaries opinion opinion home the guardian view columnists cartoons opinion videos letters sport sport home football rugby union cricket tennis cycling F1 golf US sports arts culture home books music tv & radio art & design film games classical stage life lifestyle home fashion food recipes love & sex health & fitness home & garden women family travel money What term do you want to search? Search with google become a supporter subscribe Sign in/up my account Comment activity Edit profile Email preferences Change password Sign out International edition switch to the UK edition switch to the US edition switch to the Australia edition jobs dating holidays the guardian app video podcasts pictures newsletters today's paper the observer digital archive crosswords Facebook Twitter jobs dating holidays tech world UK science cities global development business environment obituaries more sign in Comment activity Edit profile Email preferences Change password Sign out become a supporter subscribe search find a job dating more from the guardian: dating find a job change edition: switch to the UK edition switch to the US edition switch to the AU edition International edition switch to the UK edition switch to the US edition switch to the Australia edition The Guardian - Back to home home › tech home UK world sport football opinion culture business lifestyle fashion environment tech selected travel browse all sections close Facebook Facebook, Google and Twitter grilled by Congress over Russian meddling – as it happened 
+The tech giants went before Senate judiciary committee to explain how and why Russian operatives were given free rein to tamper with 2016 US election
+Russia-backed Facebook posts reached 126m Americans during election Mark Warner: senator ready to take tech giants to task Updated Facebook, Twitter, and Google executives testify to Senate – watch live Share on Facebook Share on Twitter Share via Email View more sharing options Share on LinkedIn Share on Pinterest Share on Google+ Share on WhatsApp Share on Messenger Close Tom McCarthy in New York
+@TeeMcSee email Tuesday 31 October 2017 21.40 GMT First published on Tuesday 31 October 2017 17.45 GMT 
+Key events Show 9.00pm GMT 21:00 Questioning of tech companies ends 7.44pm GMT 19:44 Facebook admits it can't identify ad buyers 7.18pm GMT 19:18 'Russia does not have loyalty to a political party in the US' 7.10pm GMT 19:10 Three tech companies agree about Russian meddling 6.50pm GMT 18:50 Facebook: 'we are deeply concerned' 6.54pm GMT 18:54 'The foreign interference we saw was reprehensible' 6.45pm GMT 18:45 Who coordinated with Russian hackers? Live feed Show 9.40pm GMT 21:40 
+We’re going to wrap up our coverage of a senate panel questioning representatives of Facebook , Google and Twitter.
+Here’s what we learned:
+
+The questioning was cordial with a few moments of contention. The companies said they took the problem of Russia using their platforms to tamper in the US election seriously and vowed new safeguards. There was total agreement that Russia specifically had undertaken a broad campaign to meddle in the election on social media platforms. The companies projected competent management of the problem . They were reluctant to acknowledge their inability to identify imposter accounts run by foreign actors and to identify ad buyers. “Of course the answer is no,” said Facebook’s Colin Stretch about identifying all politics ad buyers and discerning foreign agents. Challenged about the universe of information about its users that Facebook has access to, Stretch insisted under oath that Facebook had limited access to user information. Both Google and Facebook’s representatives blamed algorithms for certain undesirable activity on their networks including premium ad buys and the creation of offensive ad targeting on Facebook. 
+Facebook Twitter Google plus Share Share this post Facebook Twitter Google plus close 9.00pm GMT 21:00 
+Questioning of tech companies ends The tech reps are done. There’s a second panel featuring Clint Watts of the Foreign Policy Research Institute and terrorism analyst Michael S Smith.
+Facebook Twitter Google plus Share Share this post Facebook Twitter Google plus close 8.58pm GMT 20:58 
+Kennedy is back. 
+He asks Stretch if FB can generate lists of teenagers who think they’re overweight.
+Stretch says no.
+Kennedy refers to a media report about FB micro-targeting teens during moments of emotional vulnerability.
+Stretch: That reporting “relied on an internal document that was overstated...”
+Kennedy: You have the ability to give me a list of people... who are teenagers who are insecure about their weight... just like I believe that you have the ability to go look at senator Graham’s or me, my profile... can you not?
+Stretch: We have architected our system so that I may not.
+Kennedy: But you could if you wanted to?
+Stretch: It is precisely because blah blah
+Kennedy: I’m saying if you wanted to, is it not the case that you can go to John Kennedy’s profile and see things about JK as a result of my activity on FB...
+Stretch: Any user could navigate to your profile. 
+That line of questioning kind of went nowhere.
+Facebook Twitter Google plus Share Share this post Facebook Twitter Google plus close 8.53pm GMT 20:53 
+Franken challenges Salgado and they kind of talk past each other. 
+Franken turns again to Stretch. He asks about ad targeting for the topic “jew hater” on FB. FB has removed the topic from the ad platform. But how could such categories be generated and allowed to exist.
+Did you not know about “jew hater” ad targeting until the media told you?
+Stretch: “Senator, these categories which of course deeply offensive... were algorithmically generated... we’re not aware of evidence that they were used.... we don’t know for certain that they were never used... we’re not aware of any revenue that was generated using that ad target...”
+Facebook Twitter Google plus Share Share this post Facebook Twitter Google plus close 8.50pm GMT 20:50 
+Franken’s back. Can Twitter and Google vow not to take foreign political ads paid for with foreign money?
+Twitter’s Edgett: Sure.
+Google’s Salgado: I want to check to make sure it’s a good signal. 
+Facebook Twitter Google plus Share Share this post Facebook Twitter Google plus close 8.46pm GMT 20:46 
+Graham: Are any of you in the content business?
+Stretch: The vast vast majority of content on the platform is user-generated. 
+Edgett: We’re not in the content business.
+Salgado: We’re not in the content business.
+Facebook Twitter Google plus Share Share this post Facebook Twitter Google plus close 8.40pm GMT 20:40 
+
+Stretch, Edgett, Salgado. Photograph: Chip Somodevilla/Getty Images Facebook Twitter Google plus Share Share this post Facebook Twitter Google plus close 8.39pm GMT 20:39 
+Senator Hirono: Can you say that content on your platform did not have some kind of effect on the election?
+Stretch: “We’re not well positioned to judge why any one person or an entire electorate voted as it did.”
+Facebook Twitter Google plus Share Share this post Facebook Twitter Google plus close 8.35pm GMT 20:35 
+Julian Sanchez (@normative) Franken: "Can I have a little more time?” Chair: “No.” Stretch’s Inner Monologue: “Oh thank God.”
+October 31, 2017 Facebook Twitter Google plus Share Share this post Facebook Twitter Google plus close 8.33pm GMT 20:33 
+Senator Al Franken is up. “This is something you guys have to deal with and fix,” he says. 
+Then he mixes it up pretty good with FB’s Stretch.
+Franken: “How did FB   points...   Russia ? Those are two data points. American political ads and Russian money, rubles. How could you not connect those two dots?”
+Stretch says the question of account compromise was “a threat our security team was intensely focused on.. in hindsight we should have had a broader lens...”
+Franken: “OK, people are buying ads on your platform with rubles... you can’t put together rubles with a political ad and go like, ‘hm, those two data points spell out something bad.’”
+Stretch: We should have..
+Franken: Ok OK OK. ...Will FB commit to not accepting political ads in the future paid for in rubles or say the North Korean won?
+Stretch: We’re not going to permit political advertising by foreign actors. 
+Stretch: ‘Our goal is to...
+Franken: ‘My goal is to get you to think through this stuff a little bit better!’
+Facebook Twitter Google plus Share Share this post Facebook Twitter Google plus close 8.19pm GMT 20:19 
+Senator Patrick Leahy says “I hear a lot of johnny-come-latelys.” There’s a lot that I think you could have done earlier, he says. He bets that the companies made lots of add dollars.
+Anthony De Rosa 🗽 (@Anthony) . @SenatorLeahy showing ads that show up on Facebook TODAY which mimic activity by Russian disinfo campaign. pic.twitter.com/xXa8QC56c3 
+October 31, 2017 Facebook Twitter Google plus Share Share this post Facebook Twitter Google plus close 8.11pm GMT 20:11 
+Senator Ted Cruz accuses Google and Facebook of serving readers a disproportionate amount of “liberal” news stories and of excluding “conservative outlets.”
+“It is disconcerting if those political positions become a lens through which American consumers consume news,” Cruz says. “Do you consider your sites to be neutral public fora?”
+Stretch: “We think of FB as a platform for all ideas...”
+Edgett: “Free expression and free speech is at the core of the twitter mission...”
+Charlie Warzel (@cwarzel) what a waste of incredibly valuable time w/ under oath reps from companies that rarely EVER have to answer for themselves https://t.co/DN2vQNxu3A 
+October 31, 2017 Facebook Twitter Google plus Share Share this post Facebook Twitter Google plus close 1 of 5 Newest Newer Older Oldest Topics Facebook Russia Trump-Russia inquiry Google Social networking US elections 2016

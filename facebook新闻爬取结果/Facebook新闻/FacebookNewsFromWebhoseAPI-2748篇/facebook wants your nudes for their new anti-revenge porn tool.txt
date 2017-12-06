@@ -1,0 +1,10 @@
+Social networks have faced a hard time trying to reduce incidents of revenge porn and users facing embarrassment in public.
+Facebook, being the most prominent social network on the web, has developed tools to prevent such content from spreading and get removed as soon as possible.
+Earlier this year, Facebook implemented a photo-matching tool in the US to stop sharing of content tagged as revenge porn in the past. Now, the blue network has come up with a new tool that would prevent a person from uploading revenge porn in the first place, according to an ABC report.
+And for that, Facebook wants you to upload your nude snaps or videos on Messenger. The company won’t store the images directly but create a hash out of them using the anti-revenge porn tool.
+If someone tries to upload explicit content matching that hash on platforms such as Facebook, Messenger, and Instagram, the company won’t allow it.
+This seems to be a weird way to demote explicit content, but Facebook’s AI might better protect people if it already knows how they look in natural clothes.
+The “industry-first” implementation of the tool is being done in four countries. Australia is one of them where Facebook has collaborated with a federal agency called e-Safety.
+“They’re not storing the image, they’re storing the link and using artificial intelligence and other photo-matching technologies,” Julie Inman Grant, e-Safety Commissioner, told ABC.
+“So if somebody tried to upload that same image, which would have the same digital footprint or hash value, it will be prevented from being uploaded.”
+It’s not the case that every Facebook user would have to upload their nudes. If you fear that you’re a potential victim, you can contact e-Safety who might ask you to send your pictures to yourself on Messenger. Facebook would then store the corresponding hash.

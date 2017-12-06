@@ -1,0 +1,8 @@
+Reddit 
+Facebook is trialling an interesting new approach to combatting revenge porn, when someone uploads intimate photos of a former partner to the Internet. 
+The system it is trying would prevent specific photos ever being uploaded to Facebook, Instagram or Messenger – but you do have to privately share them with Facebook first … NordVPN 
+ABC News reports that the system is being trialled in Australia and three other countries. You send the nude to yourself in Messenger, and Facebook creates a hashed digital fingerprint of the photo – an encrypted version of the raw data in the image file. Anytime someone tries to upload a photo, it is checked against that fingerprint and rejected if it matches. 
+e-Safety Commissioner Julie Inman Grant said victims of “image-based abuse” would be able to take action before photos were posted to Facebook, Instagram or Messenger. 
+“We see many scenarios where maybe photos or videos were taken consensually at one point, but there was not any sort of consent to send the images or videos more broadly,” Ms Inman Grant said. 
+Facebook says that it recognizes that revenge porn can be an “incredibly devastating experience” for victims. 
+It has chosen Messenger as the method of uploading photos as that is already protected by end-to-end encryption, so represented the safest approach. There’s no word yet on how long the trial may run.

@@ -1,0 +1,7 @@
+Advertisement Facebook turns to AI to detect if someone is contemplating suicide 
+In this Monday, June 4, 2012, file photo, a woman looks at Facebook on her computer in Palo Alto, Calif. (AP / Paul Sakuma) The Associated Press Published Monday, November 27, 2017 3:57PM EST Last Updated Monday, November 27, 2017 6:44PM EST 
+NEW YORK - Facebook is turning to artificial intelligence to detect if someone might be contemplating suicide. 
+Facebook already has mechanisms for flagging posts from people thinking about harming themselves. The new feature is intended to detect such posts before anyone reports them. 
+The service will scan posts and live video with a technique called "pattern recognition." For example, comments from friends such as "are you ok?" can indicate suicidal thoughts. 
+Facebook has already been testing the feature in the U.S. and is making it available in most other countries. The European Union is excluded, though; Facebook won't say why. 
+The company is also using AI to prioritize the order that flagged posts are sent to its human moderators so they can quickly alert local authorities. Related Stories

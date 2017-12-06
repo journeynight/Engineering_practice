@@ -1,0 +1,7 @@
+The Web began dying in 2014, here’s how is a blog post by André Staltz, posted October 30, 2017. You should read the piece in its entirety. Here are some highlights. 
+Google and Facebook now have direct influence over 70%+ of internet traffic. 
+Before 2014, approximately 35% of website visits originated from searches. Today, Facebook has surpassed search, accounting for approximately 45% of website traffic. 
+Any website aspiring for traffic depends on Google and Facebook, including the news media. The vast majority of content published to the web panders to the algorithms of Google and Facebook. 
+Staltz predicts the ‘internet’ will devolve into a ‘trinet’—“network of three networks,” namely Facebook, Amazon, and Google. 
+In short, the web has become an oligopoly: 
+The Web and the internet have represented freedom: efficient and unsupervised exchange of information between people of all nations. In the Trinet, we will have even more vivid exchange of information between people, but we will sacrifice freedom. Many of us will wake up to the tragedy of this tradeoff only once it is reality.

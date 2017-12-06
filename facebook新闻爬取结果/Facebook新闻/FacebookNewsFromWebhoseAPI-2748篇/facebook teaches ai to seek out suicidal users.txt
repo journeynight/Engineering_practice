@@ -1,0 +1,17 @@
+292 shares 
+Mark Zuckerberg today announced Faceboook was rolling out enhanced AI to scan posts for signs of suicidal thoughts. The new system, which doesn’t rely on users to flag or report content, is set to rollout worldwide with the exception of countries in the EU, due to restrictions. 
+The social network’s new algorithms use pattern recognition to search posts and comments for key words. If the AI recognizes cause for concern, such as commenters asking the original poster if they’re okay or if they need help, it’ll send the information to a Facebook employee for review. 
+Here's a good use of AI: helping prevent suicide.Starting today we're upgrading our AI tools to identify when someone… 
+Posted by Mark Zuckerberg on Monday, November 27, 2017 
+If the person reviewing the report determines intervention is necessary, they have the option to alert first-responders who can then contact the individual or reach out through a person-at-risk’s family and friends. These employees, presumably, are part of Zuckerberg’s initiative to add 3,000 dedicated workers for the purpose of reviewing content. 
+The CEO in a post earlier this year said “If we’re going to build a safe community, we need to respond quickly.” He also pointed out the company was working on building a faster method for finding and reporting suicidal behavior on the platform. 
+While details about the changes to the algorithms currently remain scarce, it’s resulted in over a 100 interventions between first-responders and potentially suicidal individucals, according to Zuckerberg’s post. And if even a single life was saved, the engineers who built the AI should be commended. 
+According to Zuckerberg: 
+In the future, AI will be able to understand more of the subtle nuances of language, and will be able to identify different issues beyond suicide as well, including quickly spotting more kinds of bullying and hate. 
+There are, of course, some privacy concerns. Many people may not be aware that AI is using pattern recognition to determine what kind of behavior they’ve exhibited on social media. Plus we’re not being given any guarantees about the extent to which Facebook intends to apply pattern recognition to our communications on the platform. 
+However, if the social network successfully leverages AI to save the lives of people – whether they are attempting to live stream their death or giving troublesome status updates – it’ll be worth having our already public communications scrutinized by prying computers. 
+The company continues to work towards a future where cries for help, on social media at least, never go unheard. There are more than two billion people on Facebook and it’s simply not feasible to expect any number of employees to monitor them all – nor should they. 
+Computers, on the other hand, are perfect for the task. An AI won’t ever get tired or be overwhelmed by the stark harshness of its job. It’ll simply keep doing what the algorithms in its head tell it to. 
+And in this case, if we can dispell the Orwellian terror for just a few moments, it’s comforting to know the machines are being programmed to look for people in need. 
+Suicide is the second leading cause of death for Americans under the age of 44, and responsible for nearly 50,000 lives lost every year in the US. Facebook’s AI may not fix the problem, but it’s another tool in the fight. 
+We reached out to Facebook for further clarification and will update as necessary.

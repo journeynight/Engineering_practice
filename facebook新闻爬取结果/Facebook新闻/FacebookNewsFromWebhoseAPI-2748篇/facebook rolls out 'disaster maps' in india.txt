@@ -1,0 +1,17 @@
+Facebook Rolls Out Disaster Maps in India Reddit 
+In a bid to help communities recover and rebuild faster in the aftermath of natural disasters in India, Facebook on Thursday introduced new measures, including its Disaster Maps feature in the country. 
+As part of the effort, Facebook will make data from Disaster Maps available to the National Disaster Management Authority (NDMA) and the Sustainable Environment and Ecological Development Society (SEEDS), a non-profit organisation working on disaster resilience. 
+Disaster Maps, which was introduced globally in June, uses aggregated, de-identified Facebook data to help organisations address the critical gap in information they often face when responding to natural disasters. 
+"In times of disaster, our platform is a valuable source of information - whether it's letting your friends and family know you are safe with Safety Check feature or using Facebook to raise donations for relief efforts," said Ritesh Mehta, Head of Programmes, India, South and Central Asia at Facebook. 
+"Through our work with the National Disaster Management Authority and the roll out of Disaster Maps in India and the disaster information volunteers initiative, we hope we can help communities get the information they need to prepare, respond and recover if disaster strikes," he added. 
+The measures were announced at Facebook's first annual Disaster Response Summit in New Delhi, attended by policy makers, think tanks, and humanitarian organisations. 
+Facebook will provide multiple types of maps during disaster response efforts. 
+Location Density Maps show where people are located before, during and after a disaster. 
+"We can compare this information to historical records, like population estimates based on satellite images. Comparing these data sets can help response organizations understand areas impacted by a natural disaster," Facebook said in a statement. 
+Movement Maps illustrate patterns of movement between different neighbourhoods or cities over a period of several hours. 
+By understanding these patterns, response organisations can better predict where resources will be needed, gain insight into patterns of evacuation or predict where traffic will be most congested. 
+Safety Check maps are based on where Facebook community uses the Safety Check feature to notify their friends and family that they are safe during a disaster. 
+Facebook is also supporting the pilot of the ASK-DIV (Disaster Information Volunteers) scheme where a network of trained volunteers provide supplementary information to inform relief efforts through the Facebook Workplace platform. 
+This programme with SEEDS will establish a network of volunteers to provide real-time, first-hand information on disasters in their local communities. The programme will be piloted in two disaster-prone states -- Assam and Uttarakhand. 
+"NDMA is proactively utilising social media for awareness generation. This is an important benchmark towards integrating social media with disaster response activities. I am sure this partnership will open new avenues for using mobile technology in disaster situation," said RK Jain, Member, NDMA. 
+"The disaster information volunteer network and Facebook's Disaster Maps will play a key role in helping us get the right help to the right people at the right time," added Manu Gupta, Director, SEEDS.

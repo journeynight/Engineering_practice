@@ -1,0 +1,28 @@
+By John P. Mello Jr.Nov 8, 2017 5:00 AM PT Facebook on Tuesday announced that it was preparing a plugin to its popular Messenger platform that will allow a website's visitors to chat with a human or bot without leaving the location. 
+Customer Chat is one of a number of changes in the version 2.2 update of Messenger platform revealed at the Web Summit in Lisbon, Portugal. 
+The chat plugin, which currently is in closed beta, will be available on desktop and mobile devices . Early testers include airlines like KLM, Volaris and Air France. 
+Chatbots deployed through the plugin reportedly can perform a number of duties, including delivering order status updates, scheduling appointments, answering questions and providing after-hours services. 
+"Businesses want to reach consumers where they are and make it convenient for them to interact with the business," noted Ross Rubin, principal analyst at Reticle Research . 
+"Businesses are already marketing to consumers, particularly younger consumers, through channels like Messsenger, WhatsApp and Snapchat, so it's a natural extension to use them for service," he told CRM Buyer. 
+Marketing and service also can feed off each other. 
+"In servicing a user, you may become aware of needs that can lead to revenue opportunities," Rubin pointed out. For Large and Small Businesses 
+Customer Chat's initial attraction may be to the Facebook faithful, said Charles King, principal analyst at Pund-IT . 
+"The strongest interest is likely to be among businesses that are already using Facebook to engage with customers," he told CRM Buyer. 
+However, "the sheer size of Messenger -- about 1.2 billion global customers -- might attract others to try out the service after it exits beta," King added. 
+The new offering has something for both small and large companies, observed Jack Kent, senior analyst for mobile media at IHS Markit . 
+"Smaller organizations may look to benefit from using Facebook's infrastructure rather than investing in their own," he told CRM Buyer, "but larger companies may also benefit from having another channel to connect with users who may be less active on traditional communications channels." Unified Experience 
+All businesses using Customer Chat will be hoping to benefit from Facebook's reach and engagement with its users, said Kent. 
+"The ability to reach consumers across platforms will also be important," he added. 
+Customer Chat offers businesses an opportunity to present to users a consistent interface when interacting with them through chat. 
+"Up to now, businesses could engage with customers through the Messenger app, but it was a fragmented experience," explained Beerud Sheth, CEO of Gupshup . 
+"Customers coming to the business's website would see a different experience from what they experienced with Facebook Messenger," he told CRM Buyer. 
+With Customer Chat, website visitors not only encounter a familiar interface, but also are recognized. A first time user of a website could be greeted by name, for example, because even though the business doesn't know who the user is, Facebook does. 
+"To the user, it appears as if the business knows them," Sheth said. "That's great for the business and more engaging for the consumer." What Price Chat? 
+Despite all its benefits, Customer Chat could have a downside for some businesses. 
+"The Facebook plugin isn't as fully featured as many dedicated and professional-quality customer chat applications," King said. "Businesses that already utilize those kinds of solutions are unlikely to embrace the Facebook plugin." 
+There's also the danger of depending too much on Facebook. 
+"Businesses may be concerned if Facebook becomes the dominant or primary channel for customer engagement," IHS Markit's Kent noted. "It could impact existing multichannel marketing activities and operations and reduce the data they have themselves," he said. 
+Moreover, the data lost by the business likely would be gained by Facebook. 
+"Like every other social media site, Facebook garners value from the data it collects during user interactions," King said. "Companies that are uncomfortable with that point or with other Facebook practices should avoid the new Messenger plugin." Benefits to Social Network 
+Facebook will benefit from Customer Chat in a number of ways, suggested Kent: It can drive engagement, increasing time spent in Messenger, as users no longer would have to use an alternative channel for customer communications. It can help Facebook gather more information about its users to support its advertising businesses. It can help drive Facebook's plans to extend the Messenger platform and grow its enterprise presence to drive further monetization. 
+"Facebook has been ramping up its focus on business features for Messenger for some time," said Kent. "Adding chat support to third-party business sites is another way for Facebook to extend its presence as a communications and commerce platform to connect businesses and consumers." John P. Mello Jr. has been an ECT News Network reporter since 2003. His areas of focus include cybersecurity, IT issues, privacy, e-commerce, social media, artificial intelligence, big data and consumer electronics. He has written and edited for numerous publications, including the Boston Business Journal , the Boston Phoenix , Megapixel.Net and Government Security News .

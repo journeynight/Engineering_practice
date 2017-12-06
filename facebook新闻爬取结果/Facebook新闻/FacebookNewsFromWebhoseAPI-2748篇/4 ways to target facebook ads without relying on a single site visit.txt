@@ -1,0 +1,33 @@
+4 Ways to Target Facebook Ads Without Relying on a Single Site Visit 584 1.0K READS 
+Facebook has figured something out: a lot of times, folks don’t want to leave their platform. 
+As users spend more time in their News Feed, and Facebook continues to expand into new areas, it opens up a whole new ecosystem of behaviors that can be targeted. 
+This trend has started with the Engagement Remarketing options that are now available. 
+Sadly, these are still vastly underused on many accounts. They can be a goldmine not only for remarketing, but also for creating lookalike audiences and moving users through a sales funnel. 
+All of this targeting is possible before they even get to your site! 
+This can be extremely effective for brands that have a lot of social interaction, as well as businesses that may not have micro-conversions on their site, substandard landing pages, or anything else that creates challenges around remarketing or solid Lookalike audience creation. 
+Let’s look at some of the most powerful ones that you can use starting right now. Where to Find Engagement Options 
+These options are all in the Audience section of Ads Manager. 
+Create a new Custom Audience, and choose “Engagement” as your option: 
+Clicking that reveals the treasure trove of options you have to target people based on their Facebook actions. Power Option 1: Video Behavior Remarketing 
+Within the Engagement options, choosing Video gives you a small screen with a drop-down for the behavior you want to isolate: 
+Once you pick the behavior you want to create an Audience from, you can also choose the length of time to include, and then the specific video. 
+Why is this great? Because you can create a content funnel based on what the user has viewed. 
+Let’s say you create an Audience of users who viewed 25 percent of your how-to video on building a deck. You could then follow up with a carousel ad of tools that are featured in the video. Or, if you want to promote more content, you could show a part 2 to the original video, and then follow that one up with something sales-focused. 
+As you build the Audience you choose, you can create a Lookalike off them as well. That way, as you give Facebook more data it can find other users in your target demo who are most likely to watch your video, making that targeting more exact. Power Option 2: Lead Ad Engagement 
+Lead ads are a great way to drive building your email list for relatively low cost. 
+These ad units allow users to submit things like their name, email, and many other fields of your choice within the unit, without having to leave and go to a landing page. 
+There are several options for Engagement targeting based on their interaction with your lead ad unit: 
+This can open up a few tactics. 
+You can remarket to users who opened the form, but didn’t submit it, or maybe you want to test showing a remarketing ad to users who opened and submitted with a more sales-oriented promotion message. 
+This is also a prime opportunity to create more lookalikes that you can use to further your lead gathering: create a lookalike audiences off users who opened and submitted the form. Power Option 3: Page Engagement 
+The name of this one is a little misleading; it cites your page, but actually also applies to the ads you create or messages sent to your page: 
+If you tend to get a lot of social interaction on your posts, this can be a great way to continue interacting with users who took the time to interact with you. The option to interact with users who sent a message to your Page is also intriguing, as it coincides with the ability to have ads drive to Messenger to start those conversations in the first place. 
+One of the biggest things on my wish list is tied to this particular option, which you can read about a little further down. Power Option 4: Instagram Business Profile Interaction 
+This option is a nice crossover, especially for businesses that may have a healthy Instagram following, but are struggling to replicate it on Facebook. 
+Much like the Page options on the Facebook side, this allows you to create ads based on Facebook behaviors. 
+This is also highly effective for brands that are focused on images, such as apparel, allowing them to use their fan base on Instagram to drive their messaging and targeting on Facebook. 
+Combined with other interests, you can get targeted with a combination, like a Lookalike audience plus a makeup interest for a makeup brand’s ads, for example. The Wished-For Options 
+Here are three options I would love to see from Facebook! The ability to choose which piece of content/which post you want to create the Custom Audience for when it comes to post/ad engagements. Right now it just applies to every post, but there are so many possibilities for content targeting if the advertiser can choose which pieces of content the user has already viewed. We can choose the specific video we want to create the audience around, so I’m hopeful this option will expand to posts/ads. The ability to target based on what type of interaction a user had with a post or ad. Did they like it? Love it? Comment? There have been screenshots circulating that there’s a beta test based on users who shared your content, so I think they’re on the way to having this as an option, but it would be a super-cool option to have! A way to categorize or tag your content within the interface, so you could easily create larger groups for remarketing. So maybe you tag things based on “how-tos” or “sales messaging,” and then you can easily push out messaging you know those categories of content consumers are going to be interested in. Summary 
+Really, with all the data Facebook Ads has, the sky is the limit. The options outlined here (and the others in there) are already powerful on their own. 
+Test them out and find what works best for you, and be ready for the newer iterations that are sure to show up! 
+More Facebook Marketing Resources Here:

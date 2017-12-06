@@ -1,0 +1,14 @@
+by Gavin O'Malley   @mp_gavin , November 7, 2017 
+As part of a broader update, Facebook Messenger is now letting businesses carry over customer conversations to their own websites.
+Still in closed beta testing, the new chat plugin allows businesses to continue cross-device conversations between Messenger and their respective properties. It supports current platform capabilities from payments to rich media.
+Beta partners include Adore Me, Air France, Argos, Aviva, Bodeaz, Goibibo, Keto Mojo, KLM, Mermaid Pillow, Spoqa, Total Activation, Volaris and Zalando.
+Facebook is also rolling out a new media template, which will enable businesses to attach a CTA button when sending videos, images and gifs, or when sharing content from the “webview.”
+The template also supports FB URLs so businesses can now include user actions, like a share button to their videos and images in order to increase engagement.
+advertisement
+advertisement
+Facebook Messenger is also releasing a Broadcast API in open beta, which gives businesses with the messaging subscriptions the ability to send messages to multiple subscribers. As of April, Facebook Messenger boasted more than 1.2 billion monthly active users.
+Among other innovations, Facebook recently began inviting U.S. consumers to use PayPal directly from Messenger.
+This summer, Facebook began  inviting   Messenger users to add animated reactions, filters, masks and other effects to their video chats.
+Despite the popularity of messaging services like Messenger and WhatsApp, Facebook has struggled to monetize these platforms.  
+“Although Messenger is widely used … consumers have been slow to warm up to the idea of interacting with chat bots and paid advertising in messaging applications,” eMarketer principal analyst Debra Aho Williamson said earlier this year.
+“Facebook has faced scrutiny in Europe over its plan to merge data from WhatsApp with data from Facebook,” she noted. “These scenarios tell me that generating significant ad revenue from Messenger and WhatsApp is still a ways off."

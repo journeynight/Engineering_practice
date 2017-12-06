@@ -1,0 +1,2 @@
+search for "text" in url selftext: text search for "text" in self post contents self:yes (or self:no) include (or exclude) self posts nsfw:yes (or nsfw:no) include (or exclude) results marked as NSFW 
+e.g. subreddit:aww site:imgur.com dog

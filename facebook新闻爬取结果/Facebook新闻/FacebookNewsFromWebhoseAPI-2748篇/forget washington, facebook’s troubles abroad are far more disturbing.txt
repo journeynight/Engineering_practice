@@ -1,0 +1,25 @@
+By Kevin Roose 
+
+NEW YORK: For months, Facebook’s headquarters in Menlo Park, California, has been in crisis mode, furiously attempting to contain the damage stemming from its role in last year’s presidential campaign. 
+
+The company has mounted an allout defence campaign before this week’s congressional hearings on election interference in 2016, hiring three outside communications firms, taking out full-page newspaper ads, and mobilising top executives, including Mark Zuckerberg and Sheryl Sandberg , to beat back accusations that it failed to prevent Russia from manipulating the outcome of the election. 
+
+No other predicament in Facebook’s 13-year history has generated this kind of four-alarm response. But while the focus on Russia is understandable, Facebook has been much less vocal about the abuse of its services in other parts of the world, where the stakes can be much higher than an election. Violence against the Rohingya has been fuelled, in part, by misinformation and anti-Rohingya propaganda spread on Facebook, which is used as a primary news source by many people in the country. 
+
+The information war in Myanmar illuminates a growing problem for Facebook. The company successfully connected the world to a constellation of real-time communication and broadcasting tools, then largely left it to deal with the consequences. “In a lot of these countries, Facebook is the de facto public square,” said Cynthia Wong, a senior internet researcher for Human Rights Watch. “Because of that, it raises really strong questions about Facebook needing to take on more responsibility for the harms their platform has contributed to.” 
+
+In Myanmar, the rise in anti-Rohingya sentiment coincided with a huge boom in social media use that was partly attributable to Facebook itself. In 2016, the company partnered with MTP, the state-run telecom company, to give subscribers access to its Free Basics programme. 
+
+Free Basics includes a limited suite of internet services, including Facebook, that can be used without counting toward a cellphone data plan. As a result, the number of Facebook users in Myanmar has skyrocketed to more than 30 million today from 2 million in 2014. 
+
+“We work hard to educate people about our services, highlight tools to help them protect their accounts and promote digital literacy,” said Debbie Frost, a Facebook spokeswoman. In India, where internet use has also surged in recent years, WhatsApp, the popular Facebookowned messaging app, has been inundated with rumours, hoaxes and false stories. In May, the Jharkhand region in Eastern India was destabilised by a viral WhatsApp message that falsely claimed that gangs in the area were abducting children. The message incited widespread panic and led to a rash of retaliatory lynchings, in which at least seven people were beaten to death. 
+
+In a statement, WhatsApp said, “WhatsApp has made communications cheaper, easier and more reliable for millions of Indians — with all the benefits that brings. Though we understand that some people, sadly, have used WhatsApp to intimidate others and spread misinformation. It’s why we encourage people to report problematic messages to WhatsApp so that we can take action.” 
+
+Facebook is not directly responsible for violent conflict, of course, and viral misinformation is hardly unique to its services. 
+
+Before social media, there were email hoaxes and urban legends passed from person to person. But the speed of Facebook’s growth in the developing world has made it an especially potent force among first-time internet users, who may not be appropriately skeptical of what they see online. 
+
+ET View : Social Media Lacks Editorial Validation 
+The nub of the problem is the absence of editorial validation in what passes for news on social media. Social media offer tools to broadcast and communicate, without any mechanism to ensure the authenticity of what flows from those tools, with awful results. 
+The solution is twofold: one, the public at large must be educated not to implicitly trust any event narrative that has not been validated by a legitimate news operation; two, social media must tweak its software to display such a warning while relaying any purported development from a source other than a professional news organisation. 0 Comments

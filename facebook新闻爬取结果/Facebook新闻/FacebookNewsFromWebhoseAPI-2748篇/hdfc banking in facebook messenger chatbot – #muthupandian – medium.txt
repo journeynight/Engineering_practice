@@ -1,0 +1,1 @@
+With simple authentication method, OTP the messenger works. Through this messenger we can do prepaid, postpaid billing. The messenger linked with PAYTM, so that, if your PAYTM wallet is having money, you can do recharge of your prepaid mobile instantly. These kinds of chatbots makes the human life easy.

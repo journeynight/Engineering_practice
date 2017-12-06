@@ -1,0 +1,16 @@
+Facebook to Fight Revenge Porn by Letting Potential Victims Upload Nudes in Advance Facebook to Fight Revenge Porn by Letting Potential Victims Upload Nudes in Advance By 9 
+Facebook is testing new technology that is designed to help victims of revenge porn acts. 
+This new tool is currently under testing in Australia, and the company says it plans to expand it to other countries if everything goes well. New tool modeled after anti-child-porn detection systems 
+This new protection system works similar to the anti-child-porn detection systems in use at Facebook, and other social media giants like Google, Twitter, Instagram, and others. 
+It works on a database of file hashes, a cryptographic signature computed for each file. 
+Facebook says that once an abuser tries to upload an image marked as "revenge porn" in its database, its system will block the upload process. This will work for images shared on the main Facebook service, but also for images shared privately via Messenger, Facebook's IM app. Potential victims will need to upload nude photos of themselves 
+The weird thing is that in order to build a database of "revenge porn" file hashes, Facebook will rely on potential victims uploading a copy of the nude photo in advance. 
+This process involves the victim sending a copy of the nude photo to his own account, via Facebook Messenger. This implies uploading a copy of the nude photo on Facebook Messenger, the very same act the victim is trying to prevent. 
+The victim can then report the photo to Facebook, which will create a hash of the image that the social network will use to block further uploads of the same photo. 
+This is possible because in April this year , Facebook modified its image reporting process to take into account images showing "revenge porn" acts. 
+Facebook says it's not storing a copy of the photo, but only computing the file's hash and adding it to its database of revenge porn imagery. 
+Victims who fear that former or current partners may upload a nude photo online can pro-actively take this step to block the image from ever being uploaded on Facebook and shared among friends. Australia one of four countries participating in test program 
+In Australia, where Facebook is currently testing this new program, possible victims can reach out to the Australian government's e-Safety Commissioner on Facebook to get help with the process. 
+Speaking to ABC (Australian Broadcasting Corporation), a Facebook spokesperson said Australia is one of the four countries part of this test pilot program. 
+ABC discovered Facebook's secret test pilot program while investigating a high-profile revenge porn case that took place in Australia, where Australian Football player Nathan Broad shared a nude photo of a young woman online, bearing his recently won championship medal on her bare chest. Broad publicly apologized and the victim withdrew her legal complaint. 
+Back in 2015, Google started a similar program to start fighting revenge porn images that end up in search results.

@@ -1,0 +1,29 @@
+In Wednesday morning's hearing, the second of the three in two days, members of the U.S. Senate Select Committee on Intelligence expressed frustration with the "vague answers" given in Tuesday's panel and pressed the lawyers for the top tech titans for details.
+Pursuing a more adversarial tone than the previous day's committee did, senators frequently tried to limit the responses to yes or no answers.
+Related: Google, Facebook, Twitter and Russia: A Timeline on the ‘16 Election
+"Trump has said the ads are a hoax. I've looked at them. Are they a hoax?" asked Sen. Heinrich, D-NM, referring to politically divisive posts paid to be promoted by Kremlin-linked troll farms.
+But as Stretch began to unfold an answer, Heinrich snapped, "It's a yes or no question. I know you're a lawyer so it's hard."
+"No," replied Stretch with a grimace, acknowledging that the ads had indeed existed.
+Senator King, I-ME, castigated the tech giants for sending their lawyers instead of their executives to testify before Congress.
+"I'm disappointed that you're here and not your CEO's. If we go through this exercise again we'd appreciate seeing the top people who make the decisions," he said.
+The tech giants highlighted their commitments to strengthening their platforms against foreign actor meddling — and vaunted their success in shutting down flagged fake accounts.
+"We are committed to providing a service that fosters and facilitates free and open democratic debate and that promotes positive change in the world," said Twitter's acting general counsel Sean Edgett in his submitted testimony.
+"We take seriously reports that the power of our service was misused by a foreign actor for the purpose of influencing the U.S. presidential election and undermining public faith in the democratic process," he testified.
+Google's general counsel Kent Walker said the internet company had taken several steps to deal with the issue. They pledged to release a transparency report in 2018, keep an archive of advertising content, and add icons to individual ads so that users can click and find out who paid for them.
+"The accuracy and integrity of our results is our north star at Google," he said.
+All three companies admitted they hadn't done enough to prevent the election interference and promised to do better.
+Facebook General Counsel Colin Strech, Twitter Acting General Counsel Sean Edgett and others testify at Senate hearing on Russian interference in the 2016 presidential election on Capitol Hill on Oct. 31, 2017. NBC News But senators remain keenly interested in a forensic dive on what Russia did during and after the election, and framed their questions in a way to get the social media giants to take responsibility for allowing this behavior on their platforms.
+At one point, Sen. Mark Warner, D-VA highlighted an account called @TEN_GOP that purported to be an account for the Tennessee Republican Party but was actually run by agents from the Kremlin-linked Internet Research Agency, a so-called Russian "troll factory.'
+Warner said that the real Tennessee GOP had asked Twitter several times over several months to address it before the platform suspended the account.
+"Why did it take you so long?" asked Warner.
+Related: Apple's Tim Cook Says Dividing People a Greater Issue Than Russian Facebook Ads
+“And yeah that was an absolute miss...” said Edgett.
+Several new examples of specific ads placed by Russian actors got trotted out on oversize posterboards during the hearing.
+One was for a Facebook page called "Army of Jesus." Warner described how users were, at first, shown a picture of Jesus in front of an American flag and invited to like the page. After they liked the page they began to receive relatively "benign" Bible Quote: s in their news feed.
+Then in October 2016 just before the election the tone changed.
+. @MarkWarner shows off his first giant Facebook posts posters
+"Like If You Want Jesus To Win" #TechHearings pic.twitter.com/FCEYNueAFI
+— Kerry Flynn (@kerrymflynn) November 1, 2017 New posts for the page showed an image of a horned Hillary Clinton pitted in battle against Christ. Followers were asked to "'Like' if you want Jesus to win!'"
+"Don't let nation states disrupt our future," Sen. Richard Burr, R-NC, warned the tech trio as he concluded the hearing. "Your companies are on the front lines for that."
+Questions over Facebook's propaganda promotion don't seem to have hurt the network's bottom line. Shares in the Palo Alto company reached a record high Wednesday and its third quarter earnings pushed up year-on-year revenue by 47 percent.
+"Protecting our community is more important than maximizing our profits," said Facebook CEO Mark Zuckerberg late Wednesday.

@@ -1,0 +1,18 @@
+print 
+Facebook general counsel Colin Stretch. Getty US senators grilled Facebook general counsel Colin Stretch on Tuesday about why the company didn't catch Russia-linked fake accounts on its platform sooner. Stretch admitted "there were signals we missed," like the use of Russian rubles to purchase political ads. He said that Facebook had no knowledge of any outside help the Russian actors could have had to target members of its 2-billion-user network. 
+Facebook general counsel Colin Stretch told lawmakers on Tuesday that the company should have done more to prevent Russia-backed propaganda from spreading on its platform around the 2016 US presidential election. 
+“I think in hindsight, we should have had a broader lens," he said with regard to Facebook's efforts to weed out politically-charged ads from fake accounts. "There were signals we missed.” 
+Along with representatives from Google and Twitter, Facebook's Stretch appeared Tuesday before the Senate Committee on the Judiciary to testify about state-sponsored meddling in US politics through social networks. 
+At one point during the contentious two-and-a-half-hour hearing, Senator Al Franken pressed Stretch to explain why Facebook took nearly a full year to disclose that Russian-affiliated actors had paid for targeted, politically-charged ads in rubles. 
+“Mr. Stretch, how did Facebook, which prides itself on being able to process billions of data points and instantly transform them into personal connections for its users, somehow not make the connection that electoral ads paid for in rubles were not coming from Russia?” Franken asked. 
+“It’s a signal we should have been alert to, and in hindsight, it’s one we missed," said Stretch. “You were the canary in the coal mine" 
+Senator Al Franken. Getty 
+Franken called Facebook "the canary in the coal mine" for Russia's 2016 efforts to sway political opinion in the US through internet propaganda, a revelation that has led some senators to propose legislation that would force the disclosure of who paid for political ads online. 
+He asked Stretch if Facebook would be willing, in light of its Russian ads, to block political ads from being purchased with foreign currencies like the North Korean won. 
+While Stretch said Facebook prohibited "political advertising by foreign actors," he declined to say whether the company would keep certain currencies from being used to purchase political ads. "It's a signal, but it's not enough," he said. 
+"My goal is for you to think through this stuff a little better," Franken said at a more heated moment in the exchange. 
+Another member of the subcommittee, Senator Richard Blumenthal, asked Stretch if he knew whether any other parties, like a political campaign, helped the Russian-affiliated Internet Research Agency target the posts that Facebook estimated to have reached 126 million Americans . 
+"We're not able to essentially see behind the accounts," said Stretch. "All we're able to get is the targeting information, which we've provided to the committee.” 
+Since Facebook disclosed in September that fake, Russia-linked accounts purchased ads on its platform, reports have shown how Russia-backed operatives used the social network to spread fake news, sow divisiveness, and even organize real-world political protests . 
+Facebook has roughly 10,000 staffers working on safety and security issues and it said it plans to double that headcount by the end of 2018. 
+During Tuesday's hearing, Stretch revealed that most of the Russia-backed ads were used to drive more followers to affiliated Facebook pages that shared unpaid posts. Researchers have estimated that so-called organic posts by Russian actors reached significantly more people than online ads.

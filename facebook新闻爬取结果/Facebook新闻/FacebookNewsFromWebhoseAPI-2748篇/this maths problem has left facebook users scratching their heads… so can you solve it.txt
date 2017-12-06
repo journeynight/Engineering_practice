@@ -1,0 +1,20 @@
+Add venture This maths problem has left Facebook users scratching their heads… so can YOU solve it? 
+How good is your mental arithmetic? This tricky test separates the geniuses from the maths flops By Sophie Roberts 24th November 2017, 12:14 pm Updated: 25th November 2017, 4:02 am A FIENDISHLY tricky problem will put your maths skills to the test. 
+The puzzle, which emerged on Facebook this week, has left the British public scratching their heads. Facebook Can you solve this puzzle or will it leave you feeling baffled? 
+To solve the problem, you must find the value of a clock, some bananas and a shape. 
+Social media users have also been warned that the "answer isn't 19 or 26". 
+So can you solve it? 
+More than 11,000 people have taken to Facebook to share their answers - which range from 25 to 165. 
+It's actually an alegebra problem--the three lines are a set of simultaneous equations which you may remember from GCSE maths. 
+Taken together, the top three equations give you values for the three unknowns--and show the answer is 67. How to find the answer It's just an algebra problem dressed up with symbols in place of letters. 
+If you say that Shape = a, Bananas = b and Clock = c, the top equations read: 
+3a = 15 
+b + 2c = 10 
+
+The first equation shows a is worth 15. The second clue shows that b is worth 4 (23-15/2). This means the c is worth 3 ([10-4]/2). 
+
+Using the same rules, the bottom line then reads: 
+
+c + a + (a x b) 
+
+Putting in the answer from above we get the following sum:

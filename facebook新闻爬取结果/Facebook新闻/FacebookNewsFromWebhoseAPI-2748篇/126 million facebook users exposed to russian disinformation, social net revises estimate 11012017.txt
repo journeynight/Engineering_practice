@@ -1,0 +1,22 @@
+by Gavin O'Malley   @mp_gavin , Yesterday During a Congressional hearing on Tuesday, Facebook said it dramatically underestimated the number of U.S. users who were exposed to Russian-backed disinformation leading up to the 2016 presidential election.    
+Trolls backed by the Russian government reached roughly 126 million U.S. Facebook users, said Colin Stretch, the social giant’s general counsel.
+The revised estimate is many times more than the 10 million U.S. users that Facebook  said  Russian trolls reached, in early October.
+More troubling, Facebook might eventually be forced to revise its estimates again in the future, Stretch admitted. “Our investigation continues, and we expect to keep the committee up to date on any further discoveries,” Stretch told members of the Senate Committee on the Judiciary, Subcommittee on Crime and Terrorism, on Tuesday.
+advertisement
+advertisement
+“In our investigation, which continues to this day, we found that foreign actors used fake accounts to place ads on Facebook and Instagram that reached millions of Americans over a two-year period. Those ads were used to promote pages, which, in turn, posted more content,” Stretch said.
+Taking preemptive action ahead of the Russia-related hearing, Facebook on Friday said stricter ad guidelines were on the way.
+Beginning next month, Facebook users in Canada will be able to click “View Ads” on a Page to view the ads a Page is running on Facebook, Instagram and Messenger. If all goes according to plan, Facebook will then roll out the new model in the United States and beyond by summer 2018.
+Ultimately, all Pages will be impacted by the change, and Facebook is requiring that all ads be associated with a Page as part of the ad creation process. The ultimate goal is to add transparency to Facebook’s ad operations, according to its VP of Ads, Rob Goldman.
+“Transparency helps everyone, especially political watchdog groups and reporters, keep advertisers accountable for who they say they are and what they say to different groups,” Goldman explained in a blog post.
+During the initial test in Canada, Goldman said Facebook will only show active ads. Yet, when it expands to the States, the plan is to begin building an archive of federal-election related ads in order to show both current and historical federal-election related ads.
+In addition, Facebook plans to include ads in a searchable archive, which, once full, should cover a rolling four-year period.
+The company also plans to provide details on the total amounts spent on ads, the number of impressions delivered, and demographics information about impacted audiences.
+Moving forward, Facebook will also require more thorough documentation from advertisers before they can run election-related ads. Once verified, advertisers will have to include a disclosure in their election-related ads, which reads: “Paid for by.”
+When users click on the disclosure, they will be able to see details about the advertiser, and, like other ads on Facebook, they will also be able to see an explanation of why they saw a particular ad.
+Facebook is also building machine learning tools that can sniff out less-than-forthcoming political advertisers.
+Facebook first  announced &nb sp;plans to begin forcing Pages to disclose the source of funding behind political ads, in late September.
+The pledge followed revelations that Russian disinformation specialists had used Facebook to influence voters during the most recent presidential election.
+In response, the company promised to share details of those campaigns with Special Counsel Robert Mueller as part of his investigation.
+Over the next year, meanwhile, Facebook recently announced plans to increase its investment in security and “election integrity” by adding more than 250 people across related teams.
+On Wednesday, Facebook’s general counsel is expected to testify before the House of Representatives panel as part of its investigation into Russian interference in the 2016 presidential election.

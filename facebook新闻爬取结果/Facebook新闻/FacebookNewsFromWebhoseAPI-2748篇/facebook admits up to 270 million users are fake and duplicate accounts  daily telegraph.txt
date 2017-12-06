@@ -1,0 +1,22 @@
+Facebook admits up to 270 million users are fake and duplicate accounts Staff writers and AP, News Corp Australia Network November 3, 2017 9:14am 
+FACEBOOK has admitted that up to 270 million accounts are fake or duplicates, significantly more than it had thought. 
+This means 10 per cent of the social network’s 2.07 billion monthly users are now estimated to be duplicate accounts, up from six per cent estimated previously. Fake accounts increased from one per cent to up to three per cent. 
+The social media giant buried the shocking figure in its blockbuster third-quarter earnings report overnight. 
+Facebook said improvements to the data used to identify fake accounts was behind the increase, rather than a sudden surge in fake users. media_camera From left: Vice President and General Counsel for Facebook Colin Stretch, General Counsel for Twitter Sean Edgett, and Senior Vice President and General Counsel for Google Kent Walker testify during a hearing before the Senate (Select) Intelligence Committee. Picture: Alex Wong/Getty Images/AFP 
+The disclosure may lead to increased scrutiny of Facebook, which is already under pressure to reveal how fake news and politically charged advertising may have affected last year’s US election. 
+The news comes after Facebook testified to the Senate Judiciary Committee on Tuesday that a Russian group posted more than 80,000 times on its service during and after the 2016 election, potentially reaching as many as 126 million users. 
+Twitter also told the committee that it has uncovered and shut down 2752 accounts linked to the same group, Russia’s Internet Research Agency, which is known for promoting pro-Russian government positions. 
+That number is nearly 14 times larger than the number of accounts Twitter handed over to congressional committees three weeks ago, according to a person familiar with the matter. Russia's Sophisticated Efforts to Interfere in 2016 Election 1:59 
+Based on the information that's now coming out of congressional committees, Russian goals to interfere in the 2016 election were very broad. WSJ's Gerald F. Seib explains just how sophisticated the Russian efforts were using social media. Photo: AP November 2nd 2017 /display/newscorpaustralia.com/Web/NewsNetwork/Network News/World/ Russia's Sophisticated Efforts to Interfere in 2016 Election 
+Colin Stretch, Facebook’s general counsel, told the Judiciary panel that 120 pages set up by Russia’s internet Research Agency posted the material between January 2015 and August 2017. The company estimates that roughly 29 million people were directly “served” these items in their news feeds from the agency over that time period. 
+Some of those people received the posts because they liked one of the agency’s pages, or because a Facebook friend liked or commented on a post. Others shared the Russia-linked posts, helping them spread widely. 
+Mr Stretch’s prepared testimony, however, makes clear that many of the 126 million people reached this way may not have seen the posts. 
+These “organic” posts that appeared in users’ news feeds are distinct from more than 3000 advertisements linked to the agency that Facebook has already turned over to congressional committees. media_camera Facebook founder and CEO, Mark Zuckerberg. Picture: Paul Marotta/Getty Images/AFP 
+The ads — many of which focused on divisive social issues — pointed people to the agency’s pages, where they could then like or share its material. 
+Facebook and Twitter — though not Google — have publicly outlined steps they are taking to give the public more information about who buys and who sees political advertising on their site. 
+The moves are meant to bring the companies more in line with what is now required of print and broadcast advertisers. 
+The issue goes far beyond ads. Fake news, fake events, propaganda and other misinformation spread far and wide on the platforms in 2016 without the need for paid advertisements. 
+But regulating online speech would be more difficult for US politicians. 
+In addition, analysts and online speech advocates have warned that policing internet election ads is not the same thing as doing so in print newspapers or on TV. 
+Automated advertising platforms allow basically anyone with an internet account and a credit card to place an ad with little or no oversight from the companies. 
+Facebook has said it is building machine learning tools to address this issue, but didn’t provide details.

@@ -1,0 +1,8 @@
+November 18, 2017 Facebook’s ‘People You May Know’ feature can be really creepy. How does it work? – Recode 
+When Facebook’s Android app apparently accessed my camera without my permission I banned it from my phone. This story might drive me from Facebook altogether. 
+This upcoming year will see me drastically curtail my Facebook usage. There are so many other things I can be doing than scrolling through cat photos, and also I am not convinced the information I share is always going to be used to my benefit. 
+Facebook has a pretty clear and straightforward company mission: Connect everybody in the world. 
+One of the ways it carries out that mission is by recommending new friends for you every time you open the app or website — essentially, the company identifies other people on Facebook that it thinks you already know, and nudges you to connect with them inside Facebook’s walls. 
+The problem with this feature is that it can be really creepy. 
+Facebook previously employed user locations to recommend friends, but says it has stopped doing that; Fusion recently wrote about a psychiatrist who claims her mental health patients were being prompted to connect with one another on the service. Not good. 
+When my colleague Jason Del Rey and I recently experienced a number of oddly timed recommendations, we started to get curious ourselves. How does Facebook generate these eerily coincidental recommendations?

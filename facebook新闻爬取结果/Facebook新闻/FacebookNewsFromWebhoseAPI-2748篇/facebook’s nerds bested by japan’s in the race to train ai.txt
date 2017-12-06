@@ -1,0 +1,13 @@
+193 shares 
+Facebook this summer announced a breakthrough in neural network training. Its researchers were able to fully train an image processing AI in one hour, using 256 GPUs. Not to be outdone a group of university researchers did it in 32 minutes with 1600 Skylake processors. And a week later a team in Japan did it in 15 minutes . This is why we call it an AI race. 
+The process of training a neural network is exactly how you’re picturing it. As long as you’re imagining it like this: 
+Basically you jam as much data as you possibly can, as quickly as you can, into a computer so that it’ll have some basic understanding of something. 
+ImageNet is a way for computers to associate images with words, it allows computers to ‘look’ at an image and tell us what it sees. This is useful if you want to create an AI capable of finding images that contain “blue shirts” or “dad smiling” when asked. 
+The benchmark for this sort of thing, currently, is a 50 layer neural network called Resnet50. It takes about two weeks to train a deep learning system with this network on a very fast computer. 
+In order to reduce the training times, researchers chain processors together to harness their combined power. While this doesn’t equate to exponential reduction in time – two computers doesn’t cut the training time from two weeks to one, there’s a lot of overhead involved – it does allow for one that scales. 
+On November 7 th a group of researchers from University of California, Berkeley, the University of California, Davis and the Texas Advanced Computing Center accomplished the complete training of a Resnet50 model in 32 minutes. The team maintained accuracy comparable to Facebook’s model which was trained in 60 minutes. 
+Less than a week later Japanese AI company Preferred Networks , using its own supercomputer comprised of 1024 Nvidia Tesla GPUs, conducted the same feat in just 15 minutes. 
+Credit: Preferred Networks 
+According to a white paper published by Takuya Akiba, Shuji Suzuki, Keisuke Fukuda, the team built on the work previously done by Facebook’s researchers. And both the social network and Preferred Networks utilized Nvidia’s Tesla GPUs. 
+The difference, and perhaps key reason the Japanese company was able to achieve near equal accuracy in a quarter of the time, was the minibatch sizes. Facebook used a minibatch of 8,192, where Preferred Networks used 32,768. Increasing the minibatch size and using four times as many GPUs allowed the latter to reach the current record time. 
+We can’t be very far from the AI model trainable by using the internet as a data set. And just like the sentient robot from the film “Short Circuit,” our machines need all the input they can get in order to better understand humans.

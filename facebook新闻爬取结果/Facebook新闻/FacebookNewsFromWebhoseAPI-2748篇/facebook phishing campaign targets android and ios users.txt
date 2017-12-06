@@ -1,0 +1,14 @@
+Facebook Phishing Campaign Targets Android and iOS Users Facebook Phishing Campaign Targets Android and iOS Users By 0 
+A Facebook spam campaign is luring users to phishing pages that try to trick targets into handing over Facebook or YouTube credentials. 
+Detected by Finnish security firm F-Secure, the campaign has been going on for two weeks and has slowly moved from one country to the other. Campaign targeted Sweden, Finland, Germany 
+Researchers first detected messages aimed at Swedish users on October 15, Finnish users on October 17, and German users on October 19. The campaign targeted other countries in the subsequent days, but to a lesser degree. 
+"The total number of clicks for the entire campaign reached almost 200,000, where close to 80% of the visitors were from Germany, Sweden and Finland," said F-Secure researcher Frederic Vila. 
+The campaign relied on spammers already having access to hacked Facebook accounts that were not protected by a two-step verification system. Spammers posted links that looked like YouTube videos 
+Attackers posted shortened links on Facebook pages using the user's account, but they also spammed the target's friends via direct Facebook Messenger messages. 
+The spammed content appeared to be a link to a YouTube video, but the attackers used the old technique of forging metadata to trick Facebook's URL previewing system into displaying the wrong link info. The trick they used was recently described by security researcher Barak Tawily in a blog post here . 
+Users who clicked the links joined a carousel of various short link services. At one point, users would land on a site that triaged users based on their device type. 
+Users on Android and iOS mobile devices were redirected to a website that served the following phishing page. 
+Other users were redirected to contenidoviral.net, a page that loaded ads with a particular ad affiliate ID. That page now redirects to a random Wikipedia article (wikipedia.org/wiki/Special:Random). 
+Perpetrators used access to the phishing credentials they gained through the campaign to further propagate their spam run. 
+Facebook users who remember accessing and entering their credentials on the above page are advised to change their credentials and optionally enable two-step verification for their account. 
+Image credits: F-Secure

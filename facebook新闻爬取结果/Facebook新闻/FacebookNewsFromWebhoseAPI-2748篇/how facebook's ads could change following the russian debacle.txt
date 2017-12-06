@@ -1,0 +1,35 @@
+Originally published on November 2, 2017 5:53 pm Copyright 2017 NPR. To see more, visit http://www.npr.org/. 
+MARY LOUISE KELLY, HOST: 
+This week, representatives from Facebook, Google and Twitter were on Capitol Hill, but not the CEOs, the people calling the shots. They sent their lawyers instead. And over two days of hearings, they tried to convince lawmakers there is no need to regulate their platforms. NPR's Aarti Shahani reports. 
+AARTI SHAHANI, BYLINE: Senators wanted to understand not just the metrics - how much money did Facebook make off Russia-linked ads? How many Twitter users are bots? - but the motivations of the tech titans. 
+(SOUNDBITE OF ARCHIVED RECORDING) 
+ANGUS KING: I must say, though, I'm disappointed that you're here and not your CEOs. 
+SHAHANI: Senator Angus King, a Maine independent. 
+(SOUNDBITE OF ARCHIVED RECORDING) 
+KING: If we go through this exercise again, we would appreciate seeing the top people who are actually making the decision. 
+SHAHANI: He wasn't the only one. 
+(SOUNDBITE OF ARCHIVED RECORDING) 
+JOE MANCHIN: Are you or your CEOs concerned about the threat and damage your companies can do to the U.S. with your far-reaching power? 
+SHAHANI: Senator Joe Manchin, West Virginia Democrat. 
+(SOUNDBITE OF ARCHIVED RECORDING) 
+MANCHIN: Are you concerned about that? Do your CEOs - do you talk about the threats to the United States of America, or your domicile? Or is it basically just a business model? 
+SHAHANI: Facebook celebrity executives Mark Zuckerberg and Sheryl Sandberg were not on Capitol Hill yesterday when Congress grilled the company's top lawyers about divisive Russian propaganda and the threat to democracy. Instead, they were on an earnings call with investors. 
+(SOUNDBITE OF ARCHIVED RECORDING) 
+MARK ZUCKERBERG: Thanks everyone for joining us today. 
+SHAHANI: CEO Zuckerberg. 
+(SOUNDBITE OF ARCHIVED RECORDING) 
+ZUCKERBERG: And we had our first ever quarter with more than $10 billion in revenue. 
+SHAHANI: $10 billion fueled by the company's dominance in online advertising. But just a minute into opening remarks, there is a but. 
+(SOUNDBITE OF ARCHIVED RECORDING) 
+ZUCKERBERG: But none of that matters if our services are used in a way that doesn't bring people closer together. 
+SHAHANI: The CEO veers from metrics to politics. And by doing that, he is signaling two things to investors - one, I care and two, I'm on top of it. 
+(SOUNDBITE OF ARCHIVED RECORDING) 
+ZUCKERBERG: I am dead serious about this. And the reason I'm talking about this on our earnings call is that I've directed our teams to invest so much in security on top of the other investments we're making that it will significantly impact our profitability going forward. And I wanted our investors to hear that directly from me. 
+SHAHANI: He says over the next year, Facebook will double the people working on safety and security from 10,000 to 20,000, and that protecting online communities is more important than maximizing profits. The company says it'll build tools to reveal which advertisers are placing which ads. 
+RENEE DIRESTA: What they came out with was more than I expected. This might be me having very low expectations at this point. 
+SHAHANI: Renee DiResta is a tech entrepreneur and advocate for data transparency. She says Facebook downplayed the Russia threat a lot. Just weeks ago, they claimed Russia-linked ads reached 10 million users. This week, that number skyrocketed to 126 million. The company is changing its tune, and she has a theory about why. Facebook, as well as Google and Twitter, are trying to avoid regulation. It's a self-preservation instinct, in her words. 
+DIRESTA: And that is what is really motivating these decisions by the platforms. They, of course, hope to get ahead of it because regulation is arduous. 
+SHAHANI: Social media experts are watching to see how far the companies go in accepting responsibility for the ads that users post. Ginny Marvin, an editor at Search Engine Land, a marketer trade publication, makes a subtle but important point. The tech platforms are promising to vigorously check political ads, - ads for candidates. But they haven't talked about issue ads, like for or against gun control. 
+GINNY MARVIN: These are opinions that people have. And we are just the platform. We can't step in and police that. 
+SHAHANI: She expects that in the next round of debates, the conflict between how the tech companies see themselves - as private platforms - and how lawmakers increasingly see them - as public squares - will come to a head. Aarti Shahani, NPR News, Washington. 
+(SOUNDBITE OF EL HUERVO'S "DAISUKE") Transcript provided by NPR, Copyright NPR. © 2017 WMOT

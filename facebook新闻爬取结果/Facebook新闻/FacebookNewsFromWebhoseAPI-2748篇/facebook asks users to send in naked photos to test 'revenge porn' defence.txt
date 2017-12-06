@@ -1,0 +1,19 @@
+By Alix Culbertson, News Reporter
+Facebook users are being asked to send their naked photos and videos to the tech giant in a bid to tackle revenge porn.
+People concerned their nude pictures may be uploaded by an ex are being asked to send the images to Facebook so they can be blocked if they are posted in the future.
+A trial is currently taking place in Australia but is soon to be launched in the UK, the US and Canada.
+Software being used by Facebook will take the images and create a "hash" - a digital fingerprint which looks like a series of letters and numbers - which it will recognise if it is uploaded again and automatically block it.
+The company is hoping that using the technology will save users the agony of having the pictures deleted only after reporting them to Facebook.
+Earlier this year Facebook launched photo-matching technology to help stop revenge porn, but hashing takes its efforts to another level.
+Police forces have been using hashing technology for several years to stop the spread of child porn, and it is also used to share and block terrorist images by internet companies.
+:: Revenge porn offenders face tougher penalties under proposals
+Explicit images are banned by Facebook, however it is still a serious issue for the social media group.
+In the UK revenge porn is punishable by up to two years in prison.
+Earlier this year leaked documents revealed 54,000 cases of revenge porn are dealt with by Facebook each month.
+Julie Inman Grant, Australia's e-Safety commissioner, said the company will not store the images permanently as after they are processed into a hash, the code is all that will remain.
+She added the hash cannot be turned back into an image.
+During the trial, Facebook's customer support team will review a blurred version of an image sent via Facebook Messenger, then "hash" it.
+They will keep the blurred image for some time to ensure the technology is working correctly before deleting it.
+There are fears the images could be found before being deleted, intercepted on their way to Facebook, or people could get around the technology by simply resizing images.
+Alex Stamos, Facebook's chief security officer, said they are improving the technology to detect changes.
+A Facebook spokesman told the Telegraph: "This is an initial pilot in Australia. We look forward to getting feedback and learning."

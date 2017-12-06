@@ -1,0 +1,19 @@
+Having proven itself capable of taking out Russian agents , Facebook is now rolling out a plan it promises will stop revenge porn.
+All it needs from you, it says, are your nudes.
+The social media giant is piloting the program in Australia, and plans to test it in the U.S., Canada and the U.K. next, according to the Los Angeles Times .
+It works like this: you send Facebook your nudes, the company’s software has a look and then image matching algorithms will continuously comb the site to make sure that no images matching your nudes are posted.
+Facebook promises that your naked selfies will be safe with it; it has said that it will not store users’ photos on any of its servers. Instead, it will create a “digital footprint” of the images, and that footprint is what its image matching bots will use in their search.
+Now, the issue is, to get that digital footprint, Facebook requires that you first upload your nudes.
+It’s during this upload process that images become vulnerable to falling into the wrong hands, cybersecurity expert Lesley Carhart said.
+“They’re not storing a copy,” Carhart said, “But the image is still being transmitted and processed, leaving forensic evidence in memory and potentially on disk.”
+Australia’s commissioner of safety, Inman Grant, said users have little to worry about.
+“It would be like sending yourself your image in email, but obviously this is a much safer, secure end-to-end way of sending the image,” Grant said. “They’re not storing the image, they’re storing the link and using artificial intelligence and other photo matching technologies.”
+However, just because something hasn’t been stored on disk or on a server doesn’t mean that it is inaccessible, Carhart says.
+“My specialty is digital forensics, and I literally recover deleted images from computer systems all day — off disk and out of system memory. It’s not trivial to destroy all trace of files, including metadata and thumbnails.”
+Revenge porn is increasingly a problem around the world.
+In his country, Grant said, “We see many scenarios where maybe photos or videos were taken consensually at one point, but there was not any sort of consent to send the images or videos more broadly.”
+While there are many high-profile revenge porn cases, such as the Blac Chyna-Kardashian case that is currently making its way through the courts, there are also many cases that go unreported.
+It is believed that a full four percent of U.S. internet users are victims of revenge porn. The World Bank estimates that 78.2 percent of the U.S. population uses the internet, meaning that 10.9 million Americans (roughly the populations of New York City and Los Angeles combined) are revenge porn victims.
+It has also been found that 10 percent of women under 30 have had someone threaten to leak their nudes online.
+Because of these high numbers, Carrie Goldberg, a lawyer who specializes in sexual privacy, welcomed Facebook's revenge porn plan.
+"With its billions of users, Facebook is one place where many offenders aggress because they can maximize the harm by broadcasting the nonconsensual porn to those most close to the victim," Goldberg said. "So this is impactful."

@@ -1,0 +1,5 @@
+956 shares 
+Facebook today announced in a blog post it would be phasing out third-party app invites — a feature that was often reserved for games such as Farmville or Bejeweled. 
+Unless you’re a sucker for pain (or, mercy forbid, someone who actually uses them), you’ve probably long-since blocked out app invites from showing up in your Facebook notifications and feed. After all, who wants to get constant notifications to help out with a friend’s crops? But app invites were an essential part of early Facebook life, for many of us — mostly as a thing we had to live with. 
+Now, Facebook is slowly phasing the feature out. According to the developer page, the feature will be completely unsupported by February 6, 2018. 
+Facebook is also deprecating a few other features at the same time. This includes third-party Like buttons, which means that you’ll no longer be able to “Like” a page while you’re in another app. You’ll have to visit the actual Facebook page. Other features getting the boot include the now-redundant Follow button and comment mirroring, which allows you to comment on offsite content using your Facebook account.

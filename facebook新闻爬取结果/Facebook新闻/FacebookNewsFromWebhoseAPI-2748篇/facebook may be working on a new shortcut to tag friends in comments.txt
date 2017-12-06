@@ -1,0 +1,7 @@
+236 shares 
+A hidden feature in Facebook suggests the social networking site is experimenting with a new way to tag friends in comments. Let’s recap: currently, to mention someone, you just need to type ‘@’ and then the person’s name. 
+But a new feature, which is buried deeply within the site, takes a different tack and introduces a new “Mention a friend” button to comments. Clicking this brings up your friends list, which you can scroll through. Tags appear wherever your cursor is, or at the end of the post. 
+I can imagine this being handy if you need to tag someone in a comment — but their name momentarily escapes you. This happens to me all the time. Otherwise, I can’t think of an advantage over just typing someone’s name. 
+It’s also worth pointing out that something similar is already available when composing posts and statuses. 
+At the moment, it can only be found by doing some pretty heavy tweaking to the site’s code. It’s obvious Facebook didn’t want anyone to find it out. It’s not immediately apparent if the social networking site plans to introduce this at a later date, or if this is just a remnant of an earlier test that Facebook forgot to remove. 
+We’ve reached out to Facebook for more information, and if we hear back from them, we’ll update this post.

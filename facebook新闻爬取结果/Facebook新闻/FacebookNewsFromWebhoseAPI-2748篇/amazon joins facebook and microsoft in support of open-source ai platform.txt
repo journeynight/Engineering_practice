@@ -1,0 +1,12 @@
+353 shares 
+Amazon yesterday announced its ONNX-MXNet package to import Open Neural Network Exchange ( ONNX ) deep learning models into Apache MXNet, signifying the company is on-board with Facebook and Microsoft in efforts to open-source AI. 
+With the ONNX-MXNet Python package, developers running models based on open-source ONNX will be able to run them on Apache MXNet. Basically, this allows AI developers to keep models but switch networks, as opposed to starting from scratch. 
+If you can imagine a thousand start ups and another thousand universities all creating at the bleeding edge of machine learning technology, but unable to share work due to ‘format’ issues, you won’t be very far off from the state of things without initiatives like ONNX. 
+With Facebook and Microsoft all-in on the idea of open-source AI platforms, and now Amazon joining them, it’s looking like ONNX is the path forward. 
+Which brings us to Google and Apple. 
+We’ve talked about Apple’s culture of secrets before, and it remains bothersome that Tim Cook and the Cupertino company haven’t joined Facebook, Microsoft, and Amazon in the ONNX platform – or used its considerable size and wealth to pursue its own public vision for an open-source collaborative in machine learning code. 
+It’s just as concerning that Google, the company behind the incredibly impressive Deep Mind , isn’t joining the other giants in pounding out a path forward for the future of AI. 
+This, of course, isn’t to paint the Alphabet company in a bad light – it did create TensorFlow and Sonnet, both of which it made open-source. But supporting ONNX could only benefit consumers, startups, and the quest for useful artificial general intelligence. 
+We’re certainly not cheerleaders for one initiative over another. It’s just become increasingly evident that the future of artificial intelligence needs more than just ethical direction and government oversight. It’d be comforting to know tech giants are on the same page. 
+The machines, and the humans who will rely on them, need the biggest companies building AI to take on a fair share of responsibility for the future we’re creating. 
+When it comes to AI: sharing is caring.

@@ -1,0 +1,3 @@
+Facebook Revamps Buck Build Tool   
+Facebook has reworked its open source Buck build tool with better support for mobile development. Specifically, the tool now has a feature called source-only stub generation, which speeds up the Android build process. 
+"Instagram's build served as the test bed for this feature," Facebook's Jonathan Keljo said in a blog post. "For that build, source-only stub generation reduced graph depth by 77 percent and cut cache fetches by 50 percent, which together reduced build times by 30 percent. We expect further improvements going forward as we remove some of the opt-outs, and we're working on rolling out the feature to our other Android apps."

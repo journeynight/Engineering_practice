@@ -1,0 +1,28 @@
+Facebook is looking to roll out its suicide prevention software worldwide Updated November 28, 2017 14:06:49 Map: United States 
+Facebook wants to start monitoring your social media feed for signs of suicidal thoughts. 
+It's been testing the software in the US for the past nine months, but has announced today it will now be rolled out more broadly. 
+Let's take a closer look at the program and why you will play an important role. The software is designed to look for users who may be contemplating suicide 
+Facebook says it does that by scanning Facebook posts and live videos for words and phrases that could signal suicidal intent . If you or anyone you know needs help: Lifeline on 13 11 14 Suicide Call Back Service on 1300 659 467 Beyond Blue on 1300 22 46 36 Headspace on 1800 650 890 
+In tech terms, that means pattern recognition. 
+But the system also monitors how you respond to those posts. 
+For example, according to Facebook, comments like "Are you OK?" and "Can I help?" are particularly useful for identifying problem posts. Users are then directed to places where they can get help 
+Once the software has identified a user who may be considering suicide, it alerts a team of specialists who are trained in dealing with suicide and self-harm. 
+They're the ones who are currently tasked with reviewing posts that are manually reported by users. 
+That team can then alert the authorities if necessary or point the user to support services , such as helplines, where they can get advice. 
+Users can also see suggested ways to reach out to friends. How long does that process take? 
+Facebook hasn't said, but the company's vice-president of product management Guy Rosen said speed was a priority. 
+"Speed really matters. We have to get help to people in real time," he said. 
+To accelerate the process, Facebook said it was using artificial intelligence and automation where possible, but as we know, context is critical online and words can be easily misconstrued. 
+That's something that Facebook says it's working on. 
+"We continue to work on this technology to increase accuracy and avoid false positives before our team reviews," Mr Rosen said. So when will it be rolled out in Australia? 
+It's not yet clear. 
+Facebook hasn't said where they'll be rolling out the software next, but it says the aim is to eventually have it operating worldwide. 
+It will not, however, be rolled out in the European Union (EU) due to "sensitivities". 
+Reuters asked Mr Rosen why that was, but he declined to discuss the issue. What else is being done to combat suicide online? 
+Other tech firms also try to prevent suicides. 
+For example, Google's search engine displays the phone number for a suicide hotline in response to certain searches. 
+But it isn't just suicide that is a problem online. 
+Facebook also looks for suspicious conversations online between children and adult sexual predators. 
+But Ryan Calo, a University of Washington law professor who writes about tech, said it could be difficult for tech firms to justify scanning conversations. 
+"Once you open the door, you might wonder what other kinds of things we would be looking for," Calo said. 
+ABC/Reuters

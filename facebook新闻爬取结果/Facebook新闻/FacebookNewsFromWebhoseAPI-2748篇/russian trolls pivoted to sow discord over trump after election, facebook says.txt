@@ -1,0 +1,25 @@
+A top Facebook executive has said shadowy Russian-backed groups used the social networking platform to create mayhem during the 2016 US election, then set about raising doubts about the validity of Donald Trump's victory. Key points: Social media giants are being grilled by US senators Suspect Facebook accounts switched attention to sowing discord about Trump's election Al Franken asked why Russian money was still being accepted 
+While Mr Trump denies colluding with Russia, his campaign benefited from fake news and other malicious activity targeting his opponent Hillary Clinton. 
+But the treatment changed for the new President once he had found his way into the White House. 
+Facebook's General Counsel Colin Stretch told a US senate inquiry Mr Trump was soon being targeted by the same fake accounts that had been used to attack Mrs Clinton. 
+"We saw this concerted effort to sow division and discord," Mr Stretch told the Senate Judiciary Sub-Committee hearing. 
+"In the wake of the election and now President Trump's election, we saw a lot of activity directed at fomenting discord about the validity of his election. 
+"It continued until we disabled the accounts." 
+Tech giants Facebook, Twitter and Google have been called before the senate inquiry to face a grilling on how their platforms were used for Russian meddling in the 2016 election. 
+Mr Stretch confirmed Russian-backed actors were able to infiltrate Facebook in 2015 and spread misinformation until they were shut down several months ago. 
+"The foreign interference we saw is reprehensible," he told the inquiry. 
+"That foreign actors hiding behind fake accounts abused our platform and other internet services to try to sow division and discord. 
+"And to try to undermine the election is directly contrary to our values and goes against everything Facebook stands for." 
+Also appearing at the hearing, executives from other tech giants were forced to admit the vulnerability of their platforms to attack. 
+"The abuse of our platform to attempt state-sponsored manipulation of elections is a new challenge," said Sean Edgett from Twitter. 
+"At the time of the 2016 election, we observed instances — and acted on them — of automated and malicious activity. 
+"As we learned more about the scope of the broader problem, we resolved to strengthen our systems going forward." 
+"State-sponsored attackers are particularly pernicious. They are well-resourced. They are sophisticated. They are patient and often, by design, they are difficult to recognise," Google's Director of Law Enforcement and Information Security, Richard Salgado said. 
+At times senators were clearly exasperated with evidence from the tech giants as the executives were grilled on what effort the companies made to determine whether their customers were legitimate users. 
+Facebook's Mr Stretch admitted under persistent questioning that the company had no way of knowing the true identities of the 5 million advertisers who use the platform every month. 
+In another testy exchange, Democrat Senator Al Franken demanded to know why Facebook couldn't simply follow a money-trail in Russian currency. 
+"Those are two data points — American political ads and Russian money, rubles. How could you not connect those two dots? 
+"People are buying ads on your platform with rubles. They're political ads. 
+"You put billions of data points together all the time. That's what I hear that these platforms do. They're the most sophisticated things invented by man, ever. Google has all knowledge that man has ever developed. You can't put together rubles with a political ad and go like, 'Hmm, those two data points spell out something bad'?" 
+To which Mr Stretch answered: "Senator, it's a signal we should have been alert to and in hindsight it's one we missed." 
+The tech giants will continue giving evidence to the inquiry tomorrow. First posted November 01, 2017 14:37:28 The Trump presidency

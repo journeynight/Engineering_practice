@@ -1,0 +1,19 @@
+Email 
+Facebook announced a new plan to combat "Revenge Porn." (Photo by Sean Gallup/Getty Images ) Worried that an ex-boyfriend or girlfriend might post your intimate photos on the internet? Facebook says it has a solution – as long as you’ll hand over the photos first. The social media giant recently announced its new plan to combat “revenge porn,” when individuals post nude photos online without the consent of the subject. 
+The initiative may seem trivial, but according to a 2016 study by Data & Society , nearly 10 percent of women under the age of 30 have fallen victim to “revenge porn” or have had someone threaten to post their explicit photos online. 
+SNAPCHAT IS GETTING A NEW LOOK BECAUSE ITS 'TOO HARD TO USE' 
+Facebook’s new plan promises to stop these types of posts by archiving digital copies of submitted photos and using image-matching technology to prevent any future uploads of them, The Washington Post reported. 
+The company will test launch the program in Australia by partnering with the Office of the eSafety Commissioner, a government agency “committed to helping young people have safe, positive experiences online.” 
+The pilot program allows worried users to complete an online form on the eSafety Commissioner’s official website , detailing the specifics of their concern. The user will then send themselves the photo on Facebook Messenger, while the eSafety Commissioner’s officer notifies Facebook. Finally, the company’s community operations team will “source and hash” the image to prevent any future uploads or shares, a Facebook spokesperson explained. 
+“It would be like sending yourself your image in email, but obviously this is a much safer, secure end-to-end way of sending the image without sending it through the ether,” Australia’s eSafety commissioner, Inman Grant, told the Australian Broadcasting Corporation. “They’re not storing the image, they’re storing the link and using artificial intelligence and other photo-matching technologies.” 
+But there is a catch. 
+According to reports from The Verge , even if a nude photo is submitted to the company, Facebook's technology can only protect the user if the photo’s original file is uploaded - copies of the photo could be more difficult to stop. 
+NASA IS WORKING WITH UBER ON FLYING TAXIS 
+Digital forensics expert Lesley Carhart emphasized the complexity of completely deleting a digital file. 
+“Yes, they’re not storing a copy, but the image is still being transmitted and processed, leaving forensic evidence in memory and potentially on disk.” Carhart told The Post. 
+But Facebook says that the technology is trustworthy. 
+A company spokesperson added that the innovative technology was developed with global safety experts, in order to help Facebook provide a supportive and inclusive environment. 
+Privacy & Sexual Consent lawyer Carrie Goldberg agrees and is “delighted” by Facebook’s initiative. 
+“With its billions of users, Facebook is one place where many offenders aggress because they can maximize the harm by broadcasting the nonconsensual porn to those most close to the victim,” Goldberg said to the Guardian . “So this is impactful.” 
+At the end of its most recent quarter, Facebook had 2.07 billion monthly active users. 
+After piloting in Australia, Facebook plans to test the program in the United States, Britain and Canada. Trending in Tech
